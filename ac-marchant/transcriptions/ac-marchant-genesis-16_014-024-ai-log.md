@@ -1,9 +1,9 @@
 # AI transcription run log
 
-- Review PDF file: `ac-marchant-genesis-16_011-013.pdf`
-- Confidence score: `0.99`
+- Review PDF file: `ac-marchant-genesis-16_014-024.pdf`
+- Confidence score: `0.98`
 - Confidence label: `high`
-- Notes: High confidence. The text is clear and highly legible. Long 's' characters were modernized to 's' per instructions. Catchwords, signature marks, and running heads were ignored. Paragraph starting words were adjusted to standard capitalization.
+- Notes: High confidence. The text is clear and legible. Archaic spellings and long 's' characters were handled as instructed. Formatting, paragraph numbering, and capitalization rules were preserved exactly according to the prompt.
 ## Transcribe config used
 
 ```json
