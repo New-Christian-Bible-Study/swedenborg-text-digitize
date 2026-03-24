@@ -1,9 +1,13 @@
 # AI transcription run log
 
 - Review PDF file: `ac-marchant-genesis-16_011-013.pdf`
+- Run started at: `2026-03-24 13:04`
+- Total pages: `3`
+- Total inference time (seconds): `82.765`
+- Average time per page (seconds): `27.588`
 - Confidence score: `0.99`
 - Confidence label: `high`
-- Notes: High confidence. The text is clear and highly legible. Long 's' characters were modernized to 's' per instructions. Catchwords, signature marks, and running heads were ignored. Paragraph starting words were adjusted to standard capitalization.
+- Notes: Page 2: '23' or '22' in 'Matth. xxii. 23'? The digit has a flat top and rounded bottom, characteristic of a '3' in this typeface, despite OCR suggesting '22'.
 ## Transcribe config used
 
 ```json
@@ -11,7 +15,9 @@
     "model": "gemini/gemini-3.1-pro-preview",
     "temperature": 0.0,
     "reasoning_effort": "high",
-    "media_resolution": "high"
+    "media_resolution": "high",
+    "sys_instructions": "Transcribe this review PDF to markdown and respond with JSON only. Use this key order: confidence_score, confidence_label, notes, transcription. confidence_score must be a number from 0.0 to 1.0. confidence_label must be one of: 'low', 'medium', 'high'. Preserve structure and formatting. For every confidence score below 1.0, the 'notes' field must contain a diagnostic list of specific ambiguities. For each instance, specify the line number or the word snippet followed by the conflict (for example, 'Line 8: \"s\" or \"f\" in \"blessing\"?'). Strictly avoid general descriptions of the document or praise for formatting. If the score is 1.0, the 'notes' field should be an empty string."
+  
 }
 ```
 

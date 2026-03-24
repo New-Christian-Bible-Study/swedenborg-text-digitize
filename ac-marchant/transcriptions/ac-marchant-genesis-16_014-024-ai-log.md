@@ -1,9 +1,13 @@
 # AI transcription run log
 
 - Review PDF file: `ac-marchant-genesis-16_014-024.pdf`
-- Confidence score: `0.98`
+- Run started at: `2026-03-24 13:09`
+- Total pages: `11`
+- Total inference time (seconds): `205.506`
+- Average time per page (seconds): `18.682`
+- Confidence score: `0.99`
 - Confidence label: `high`
-- Notes: High confidence. The text is clear and legible. Archaic spellings and long 's' characters were handled as instructed. Formatting, paragraph numbering, and capitalization rules were preserved exactly according to the prompt.
+- Notes: Page 6: 'Interiorr' appears to have a double 'r' in the original text. Page 10: '1903.' at the bottom right is treated as a catchword and ignored.
 ## Transcribe config used
 
 ```json
@@ -11,7 +15,9 @@
     "model": "gemini/gemini-3.1-pro-preview",
     "temperature": 0.0,
     "reasoning_effort": "high",
-    "media_resolution": "high"
+    "media_resolution": "high",
+    "sys_instructions": "Transcribe this review PDF to markdown and respond with JSON only. Use this key order: confidence_score, confidence_label, notes, transcription. confidence_score must be a number from 0.0 to 1.0. confidence_label must be one of: 'low', 'medium', 'high'. Preserve structure and formatting. For every confidence score below 1.0, the 'notes' field must contain a diagnostic list of specific ambiguities. For each instance, specify the line number or the word snippet followed by the conflict (for example, 'Line 8: \"s\" or \"f\" in \"blessing\"?'). Strictly avoid general descriptions of the document or praise for formatting. If the score is 1.0, the 'notes' field should be an empty string."
+  
 }
 ```
 
