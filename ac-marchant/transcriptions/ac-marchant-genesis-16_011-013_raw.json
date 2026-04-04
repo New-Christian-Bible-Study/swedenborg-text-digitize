@@ -6,268 +6,278 @@
       "box_2d": [
         0,
         0,
-        1000,
-        1000
+        10,
+        100
       ]
     },
     {
       "page_number": 1,
-      "text": "THE PREFACE.",
+      "text": "== T H E",
       "box_2d": [
-        240,
+        210,
+        450,
+        235,
+        550
+      ]
+    },
+    {
+      "page_number": 1,
+      "text": "== P R E F A C E.",
+      "box_2d": [
+        250,
         200,
-        280,
-        800
-      ]
-    },
-    {
-      "page_number": 1,
-      "text": "",
-      "box_2d": [
         290,
-        200,
-        300,
         800
       ]
     },
     {
       "page_number": 1,
-      "text": "In the _First_ Part were explained _Fifteen Chapters_ of",
+      "text": "In _the_ First Part _were explained Fifteen Chapters of_",
       "box_2d": [
-        310,
+        315,
         200,
-        340,
-        800
+        337,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_Genesis_, and _those Things which they contain in an In-_",
+      "text": "Genesis, _and those Things which they contain in an Internal_",
       "box_2d": [
-        340,
-        200,
-        370,
-        800
+        337,
+        240,
+        359,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_ternal Sense_; and to _every Chapter_ were adjoined what, _by_",
+      "text": "Sense; _and to every Chapter were adjoined what, by_",
       "box_2d": [
-        370,
+        359,
         200,
-        400,
-        800
+        381,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_the Divine Mercy of the Lord, it was allowed me to see and_",
+      "text": "_the_ Divine Mercy _of the_ Lord, _it was allowed me to see and_",
       "box_2d": [
-        400,
+        381,
         200,
-        430,
-        800
+        403,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_hear in the World of Spirits and in the Heaven of Angels_.",
+      "text": "_hear in the_ World of Spirits _and in the_ Heaven of Angels.",
       "box_2d": [
-        430,
+        403,
         200,
-        460,
-        800
+        425,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "Now follows the Next Part, in which, _to every Chapter_ will,",
+      "text": "_Now follows the_ Next Part, _in which, to every Chapter will,_",
       "box_2d": [
-        460,
+        425,
         200,
-        490,
-        800
+        447,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_in like Manner_, be annexed _Things of the same Nature_; and",
+      "text": "_in like Manner, be annexed Things of the same Nature; and_",
       "box_2d": [
-        490,
+        447,
         200,
-        520,
-        800
+        469,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "to this 16_th Chapter those Things in the Word which relate_",
+      "text": "_to this_ 16th Chapter _those Things in the_ Word _which relate_",
       "box_2d": [
-        520,
+        469,
         200,
-        550,
-        800
+        491,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_to Visions and Dreams, also to such as are Prophetical_. I",
+      "text": "_to_ Visions _and_ Dreams, _also to such as are_ Prophetical. _I_",
       "box_2d": [
-        550,
+        491,
         200,
-        580,
-        800
+        513,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "know there are but _few will believe, that it is possible for any one_",
+      "text": "_know there are but few will believe, that it is possible for any one_",
       "box_2d": [
-        580,
+        513,
         200,
-        610,
-        800
+        535,
+        810
       ]
     },
     {
       "page_number": 1,
       "text": "_to see those Things which are in the other Life, and from thence_",
       "box_2d": [
-        610,
+        535,
         200,
-        640,
-        800
+        557,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_be able to report any Thing concerning the State of Souls after_",
+      "text": "_be able to report any Thing concerning the_ State of Souls _after_",
       "box_2d": [
-        640,
+        557,
         200,
-        670,
-        800
+        579,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_Death_; because _few believe the Resurrection, and indeed fewer_",
+      "text": "Death; _because few believe the_ Resurrection, _and indeed fewer_",
       "box_2d": [
-        670,
+        579,
         200,
-        700,
-        800
+        601,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_of the Learned than of the Simple_. It's true, _they verbally own,_",
+      "text": "_of the_ Learned _than of the_ Simple. _It's true, they verbally own,_",
       "box_2d": [
-        700,
+        601,
         200,
-        730,
-        800
+        623,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_because it is agreeable to the Doctrine of Faith, that they shall_",
+      "text": "_because it is agreeable to the_ Doctrine of Faith, _that they shall_",
       "box_2d": [
-        730,
+        623,
         200,
-        760,
-        800
+        645,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_rise again, but deny it in their Hearts_. Nay, there are _some_",
+      "text": "_rise again, but deny it in their_ Hearts. _Nay, there are some_",
       "box_2d": [
-        760,
+        645,
         200,
-        790,
-        800
+        667,
+        810
       ]
     },
     {
       "page_number": 1,
       "text": "_who openly confess, that then they will believe it, when any one_",
       "box_2d": [
-        790,
+        667,
         200,
-        820,
-        800
+        689,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_shall rise from the Dead, and they should see, hear and touch_",
+      "text": "_shall rise from the_ Dead, _and they should see, hear and touch_",
       "box_2d": [
-        820,
+        689,
         200,
-        850,
-        800
+        711,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_him_. But _if this could be done, it might be done for the Sa-_",
+      "text": "_him. But if this could be done, it might be done for the Satisfaction_",
       "box_2d": [
-        850,
+        711,
         200,
-        880,
-        800
+        733,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_tisfaction of every one; and even then every such Person,_",
+      "text": "_of every one; and even then every such_ Person,",
       "box_2d": [
-        880,
+        733,
         200,
-        910,
-        800
+        755,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_who denies it in his Heart, would not be so convinced,_",
+      "text": "_who denies it in his_ Heart, _would not be so convinced,_",
       "box_2d": [
-        910,
+        755,
         200,
-        940,
-        800
+        777,
+        810
       ]
     },
     {
       "page_number": 1,
       "text": "_but a thousand Objections would arise, which would render_",
       "box_2d": [
-        940,
+        777,
         200,
-        970,
-        800
+        799,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "_his Mind obdurate in the Negative_. Some even say they",
+      "text": "_his Mind obdurate in the_ Negative. _Some even say they_",
       "box_2d": [
-        970,
+        799,
         200,
-        1000,
-        800
+        821,
+        810
       ]
     },
     {
       "page_number": 1,
-      "text": "believe that they _shall rise_ again, but it will be in the Day",
+      "text": "_believe that they shall rise again, but it will be in the_ Day",
       "box_2d": [
-        1000,
+        821,
         200,
-        103,
-        800
+        843,
+        810
+      ]
+    },
+    {
+      "page_number": 1,
+      "text": "23181",
+      "box_2d": [
+        890,
+        470,
+        920,
+        560
       ]
     },
     {
@@ -276,318 +286,318 @@
       "box_2d": [
         0,
         0,
-        1000,
-        1000
+        10,
+        100
       ]
     },
     {
       "page_number": 2,
-      "text": "of the _Last Judgment, of which they have conceived an Opi-_",
+      "text": "_of the_ Last Judgment, _of which they have conceived an Opinion,_",
       "box_2d": [
-        150,
-        200,
-        180,
-        800
+        140,
+        230,
+        162,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_nion, that then all Things which are in this visible World_",
+      "text": "_that then all Things which are in this visible_ World",
       "box_2d": [
-        180,
-        200,
-        210,
-        800
+        162,
+        230,
+        184,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_shall perish_; and because Men have, for many Ages, ex-",
+      "text": "_shall perish; and because Men have, for many_ Ages, _expected_",
       "box_2d": [
-        210,
-        200,
-        240,
-        800
+        184,
+        230,
+        206,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "pected that Day in vain, they are yet in Doubt. But _what_",
+      "text": "_that Day in vain, they are yet in Doubt. But what_",
       "box_2d": [
-        240,
-        200,
-        270,
-        800
+        206,
+        230,
+        228,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_is understood by the Last Judgment_, of which there is Men-",
+      "text": "_is understood by the_ Last Judgment, _of which there is Mention_",
       "box_2d": [
-        270,
-        200,
-        300,
-        800
+        228,
+        230,
+        250,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "tion in the Word, _shall, by the Divine Grace of the Lord,_",
+      "text": "_in the_ Word, _shall, by the_ Divine Grace _of the_ Lord,",
       "box_2d": [
-        300,
-        200,
-        330,
-        800
+        250,
+        230,
+        272,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_be declared at the End of the_ 17_th Chapter following_: From",
+      "text": "_be declared at the End of the_ 17th Chapter _following: From_",
       "box_2d": [
-        330,
-        200,
+        272,
+        230,
+        294,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_whence it may appear, what sort of Men there are in the_",
+      "box_2d": [
+        294,
+        230,
+        316,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Christian World _at this Day._ The Sadducees, _(of whom_",
+      "box_2d": [
+        316,
+        230,
+        338,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_we have an Account in_ Matth. xxii. 22, _and the Verses following)_",
+      "box_2d": [
+        338,
+        230,
         360,
-        800
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "whence it may appear, _what sort of Men there are in the_",
+      "text": "_openly denied a_ Resurrection; _yet they did better_",
       "box_2d": [
         360,
-        200,
-        390,
-        800
+        230,
+        382,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_Christian World at this Day_. The Sadducees, (_of whom_",
+      "text": "_than those who, at this Time, say, they do not deny it, because,_",
       "box_2d": [
-        390,
-        200,
-        420,
-        800
+        382,
+        230,
+        404,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_we have an Account in_ Matth. xxii. 22, _and the Verses fol-_",
+      "text": "_as beforesaid, it is an Article of their_ Faith, _and_",
       "box_2d": [
-        420,
-        200,
-        450,
-        800
+        404,
+        230,
+        426,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_lowing_) openly denied a Resurrection; _yet they did better_",
+      "text": "_yet deny it in their_ Heart; _so that they will say contrary to_",
       "box_2d": [
-        450,
-        200,
-        480,
-        800
+        426,
+        230,
+        448,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_than those who, at this Time, say, they do not deny it, be-_",
+      "text": "_what they believe, and believe contrary to what they say:_",
       "box_2d": [
-        480,
-        200,
-        510,
-        800
+        448,
+        230,
+        470,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_cause, as beforesaid, it is an Article of their Faith, and_",
+      "text": "_But that they may no longer confirm themselves in that false_",
       "box_2d": [
-        510,
-        200,
-        540,
-        800
+        470,
+        230,
+        492,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_yet deny it in their Heart; so that they will say contrary to_",
+      "text": "Opinion, _it is granted me, by the_ Divine Grace _of the_ Lord,",
       "box_2d": [
-        540,
-        200,
-        570,
-        800
+        492,
+        230,
+        514,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_what they believe, and believe contrary to what they say_:",
+      "text": "_while I am in this_ World, _to be in Spirit in the other_ Life",
       "box_2d": [
-        570,
-        200,
-        600,
-        800
+        514,
+        230,
+        536,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "But _that they may no longer confirm themselves in that false_",
+      "text": "_(for Man is a_ Spirit _cloathed with a_ Body) _and there to_",
       "box_2d": [
-        600,
-        200,
-        630,
-        800
+        536,
+        230,
+        558,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_Opinion, it is granted me, by the Divine Grace of the Lord,_",
+      "text": "_converse with_ Souls, _who were risen again not long after their_",
       "box_2d": [
-        630,
-        200,
-        660,
-        800
+        558,
+        230,
+        580,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_while I am in this World, to be in Spirit in the other Life_",
+      "text": "Decease; _yea, almost with all those, who were known to me in_",
       "box_2d": [
-        660,
-        200,
+        580,
+        230,
+        602,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_the Life of the_ Body, _and are deceased; and also for several_",
+      "box_2d": [
+        602,
+        230,
+        624,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_Years daily to talk with_ Spirits _and_ Angels, _and there_",
+      "box_2d": [
+        624,
+        230,
+        646,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_to see stupendous Things, which never came into the Imagination_",
+      "box_2d": [
+        646,
+        230,
+        668,
+        810
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "_of any Man; and this without the least_ Fallacy.",
+      "box_2d": [
+        668,
+        230,
         690,
-        800
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "(for Man is a Spirit cloathed with a Body) _and there to_",
+      "text": "_Since therefore many say, They would believe if any one should_",
       "box_2d": [
         690,
-        200,
-        720,
-        800
+        230,
+        712,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_converse with Souls, who were risen again not long after their_",
+      "text": "_come to them from the other_ Life, _it will be now seen whether,_",
       "box_2d": [
-        720,
-        200,
-        750,
-        800
+        712,
+        230,
+        734,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_Decease; yea, almost with all those, who were known to me in_",
+      "text": "_contrary to the Hardness of their_ Hearts, _they will be_",
       "box_2d": [
-        750,
-        200,
-        780,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_the Life of the Body, and are deceased; and also for se-_",
-      "box_2d": [
-        780,
-        200,
-        810,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_veral Years daily to talk with Spirits and Angels, and there_",
-      "box_2d": [
-        810,
-        200,
-        840,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_to see stupendous Things, which never came into the Imagi-_",
-      "box_2d": [
-        840,
-        200,
-        870,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_nation of any Man; and this without the least Fallacy_.",
-      "box_2d": [
-        870,
-        200,
-        900,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "Since therefore many say, _They would believe if any one should_",
-      "box_2d": [
-        900,
-        200,
-        930,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_come to them from the other Life, it will be now seen whe-_",
-      "box_2d": [
-        930,
-        200,
-        960,
-        800
-      ]
-    },
-    {
-      "page_number": 2,
-      "text": "_ther, contrary to the Hardness of their Hearts, they will be_",
-      "box_2d": [
-        960,
-        200,
-        990,
-        800
+        734,
+        230,
+        756,
+        810
       ]
     },
     {
       "page_number": 2,
       "text": "_persuaded. This I am able to aver, that those who come into_",
       "box_2d": [
-        990,
-        200,
-        102,
-        800
+        756,
+        230,
+        778,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_the other Life from the Christian World, are of all Men_",
+      "text": "_the other_ Life _from the_ Christian World, _are of all Men_",
       "box_2d": [
-        102,
-        200,
-        105,
-        800
+        778,
+        230,
+        800,
+        810
       ]
     },
     {
       "page_number": 2,
-      "text": "_the worst, hating their Neighbour, hating the Faith, deny-_",
+      "text": "_the worst, hating their_ Neighbour, _hating the_ Faith, _denying_",
       "box_2d": [
-        105,
-        200,
-        108,
-        800
+        800,
+        230,
+        822,
+        810
       ]
     },
     {
@@ -596,154 +606,144 @@
       "box_2d": [
         0,
         0,
-        1000,
-        1000
+        10,
+        100
       ]
     },
     {
       "page_number": 3,
-      "text": "_ing the Lord (for in the other Life Hearts speak, and not_",
+      "text": "_the_ Lord _(for in the other_ Life Hearts _speak, and not_",
       "box_2d": [
         150,
-        200,
-        180,
-        800
+        170,
+        172,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_Mouths) and, above the rest, Adulterers. And because_",
+      "text": "Mouths) _and, above the rest,_ Adulterers. _And because_",
       "box_2d": [
-        180,
-        200,
-        210,
-        800
+        172,
+        170,
+        194,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_Heaven begins to be thus removed from others who are with-_",
+      "text": "Heaven _begins to be thus removed from others who are within_",
       "box_2d": [
-        210,
-        200,
-        240,
-        800
+        194,
+        170,
+        216,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_in the Church, it may be made appear, which has also been_",
+      "text": "_the_ Church, _it may be made appear, which has also been_",
       "box_2d": [
-        240,
-        200,
-        270,
-        800
+        216,
+        170,
+        238,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_permitted me to know for a Certainty, that the last Time is_",
+      "text": "_permitted me to know for a Certainty, that the last_ Time _is_",
       "box_2d": [
-        270,
-        200,
-        300,
-        800
+        238,
+        170,
+        260,
+        770
       ]
     },
     {
       "page_number": 3,
       "text": "_at Hand._",
       "box_2d": [
-        300,
-        200,
-        330,
-        800
+        260,
+        170,
+        282,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "",
+      "text": "_As to the_ Internal Sense _of the_ Word, _what it is, and_",
       "box_2d": [
-        330,
-        200,
-        340,
-        800
-      ]
-    },
-    {
-      "page_number": 3,
-      "text": "As to the _Internal Sense of the Word, what it is, and_",
-      "box_2d": [
-        340,
-        200,
-        370,
-        800
+        282,
+        170,
+        304,
+        770
       ]
     },
     {
       "page_number": 3,
       "text": "_of what Kind, may be seen by consulting what has been_",
       "box_2d": [
-        370,
-        200,
-        400,
-        800
+        304,
+        170,
+        326,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_said and shewn in the First_ Part. N. 1 _to_ 5. 64. 65.",
+      "text": "_said and shewn in the_ First Part. N. 1 _to_ 5. 64. 65.",
       "box_2d": [
-        400,
-        200,
-        430,
-        800
+        326,
+        170,
+        348,
+        770
       ]
     },
     {
       "page_number": 3,
       "text": "66. 167. 605. 920. 937. 1143. 1224. 1404. 1405.",
       "box_2d": [
-        430,
-        200,
-        460,
-        800
+        348,
+        170,
+        370,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "1408. 1409. 1502 _the End_. 1540. 1659. 1756 _the Be-_",
+      "text": "1408. 1409. 1502 _the End._ 1540. 1659. 1756 _the Beginning._",
       "box_2d": [
-        460,
-        200,
-        490,
-        800
+        370,
+        170,
+        392,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_ginning_. 1767 _to_ 1777, _and_ 1869 _to_ 1879. 1783. 1807.",
+      "text": "1767 _to_ 1777, _and_ 1869 _to_ 1879. 1783. 1807.",
       "box_2d": [
-        490,
-        200,
-        520,
-        800
+        392,
+        170,
+        414,
+        770
       ]
     },
     {
       "page_number": 3,
-      "text": "_And in this Part_, N. 1886 _to_ 1889 _inclusive_.",
+      "text": "_And in this Part,_ N. 1886 _to_ 1889 _inclusive._",
       "box_2d": [
-        520,
-        200,
-        550,
-        800
+        414,
+        170,
+        436,
+        770
       ]
     }
   ],
-  "confidence_score": 1.0,
+  "confidence_score": 0.95,
   "confidence_label": "high",
-  "notes": "",
+  "notes": "Page 1 Line 21: 'Satisfaction' capitalization and italicization is slightly ambiguous. Page 2 to 3 transition: 'denying' is split across pages, joined on Page 2.",
   "model": "gemini/gemini-3.1-pro-preview",
   "configuration": "temperature=0.0, media_resolution=high, reasoning_effort=high"
 }

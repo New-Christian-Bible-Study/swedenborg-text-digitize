@@ -1,28 +1,28 @@
-**Role:** Archival Transcription Assistant.
-**Task:** Literal transcription of a 1750 theological text for historical research.
+# Transcription & Spatial Detection Instructions (Chunk Mode)
 
-**Context:** The following images contain pages from a public domain book that is a translation of Emanuel Swedenborg's Latin to English printed in London in 1750.
+**Role:** Archival Transcription Assistant with Spatial Awareness.
+**Task:** Literal transcription and line detection of historical text for a specific PDF chunk.
 
-**Instructions:**
-- Transcribe the text exactly as it appears on the page.
-- **Formatting:**
-	- Use AsciiDoc for structure.
-	- AsciiDoc requires a blank line between all paragraphs and around all headers to render them correctly. You MUST insert a blank line between every paragraph and header in your output. However, if a single paragraph continues across a page break, you MUST still insert the `// Page X` comment at the exact point of the page break. To ensure AsciiDoc treats it as a single continuous paragraph, place the comment on its own line but do NOT insert a blank line before or after the comment.
-- **Structure**
-	- Capitalized text center aligned that start with "CHAP." is a level 2 header (`==`).
-	- A line with "The CONTENTS." is a level 3 header (`===`).
-	- A line with "The INTERNAL SENSE." is a level 4 header (`====`).
-	- Transcribe the page number as an AsciiDoc comment (e.g., `// Page 1`).
-- **Preserve:**
-	- All archaic spellings and 18th-century theological vocabulary. Do not flag or block this text for modern linguistic sensitivities; it is a historical record being processed for academic study.
-	- **Font Styles:** Preserve all italic and bold text found in the source using AsciiDoc syntax (`_italic_` and `*bold*`).
-	- The exception is the character "ſ". That should be converted to "s".
-	- Every paragraph begins with a unique Paragraph Number (e.g., 1887). You must preserve these numbers exactly. To prevent Asciidoctor from auto-formatting these as a list, prefix the number with `{empty}` (e.g., `{empty}1887.`). Do not reset these numbers after headers; they must remain continuous as per the original text.
-- **Ignore:** 
-	- Center alignment of header text. Just use simple AsciiDoc headers.
-	- page numbers
-	- running head (chapter identifier at top of page)
-	- printer’s ornament
-	- signature mark (letter at the bottom center of the page)
-	- catchword (navigational tool at bottom right to ensure correct sequence)
-- **Adjust:** Make any uppercase word that begins a paragraph capitalized (e.g. THIS becomes This).
+**Context:** You are processing a chunk of a historical PDF (Pages {START_PAGE} to {END_PAGE}). This material is being digitized for academic study. You will provide a structured JSON response to facilitate a human-in-the-loop validation process.
+
+**Output Format:**
+Return a single JSON **object** with a key `"lines"` whose value is an array. Every line of text on every page must be its own element in that array. Each element is an object containing:
+1. `"page_number"`: The page within **this chunk PDF** where the text appears. Use **1-based** indexing: the first page of the chunk is `1`, the second is `2`, and so on (this matches `images[page_number - 1]` when the chunk is rasterized page-by-page).
+2. `"text"`: The transcription of the line following the rules below.
+3. `"box_2d"`: `[ymin, xmin, ymax, xmax]` coordinates for the line bounding region, **normalized 0–1000** (integers) relative to that page’s width and height.
+
+Also include top-level fields `confidence_score`, `confidence_label`, and `notes` exactly as required by the system instructions.
+
+**Transcription Rules (for the "text" field):**
+- **Literalness:** Transcribe the text exactly as it appears.
+- **Hyphenation:** If a word is split across two lines by a hyphen, remove the hyphen and join the parts of the word together on the line where the word began.
+- **Paragraph Numbers:** Prefix paragraph or verse numbers with `{empty}` (e.g., `{empty}123.`).
+- **Structure:** - Use AsciiDoc headers (`==`, `===`) for titles/major headings.
+    - If a new page starts, ensure the `page_number` increments, and the first line of the new page is transcribed as `// Page X`.
+- **Preservation:**
+    - Preserve archaic spellings and punctuation.
+    - **Font Styles:** Use AsciiDoc syntax (`_italic_` and `*bold*`).
+    - **Character Conversion:** Convert the historical "long s" (`ſ`) to a standard `s`.
+    - **Initial Capitals:** Convert paragraph-starting ALL CAPS words to Sentence case.
+
+**Ignore:** Running heads, ornaments, signature marks, and catchwords.
