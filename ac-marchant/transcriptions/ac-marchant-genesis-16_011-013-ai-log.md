@@ -1,10 +1,13 @@
 # AI transcription run log
 
 - Chunk PDF file: `ac-marchant-genesis-16_011-013.pdf`
-- Run started at: `2026-03-29 09:43`
+- Run started at: `2026-04-04 11:07`
 - Total pages: `3`
-- Total inference time (minutes): `2.12`
-- Average time per page (seconds): `42.41`
+- Total inference time (minutes): `2.91`
+- Average time per page (seconds): `58.26`
+- Prompt tokens (input): `4043`
+- Completion tokens (output): `25646`
+- Total tokens: `29689`
 - Confidence score: `1.0`
 - Confidence label: `high`
 - Notes: 
