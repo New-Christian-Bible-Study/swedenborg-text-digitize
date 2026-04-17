@@ -14,23 +14,59 @@
     },
     {
       "page_number": 1,
-      "text": "== The",
+      "text": "== T H E",
       "box_2d": [
         252,
-        450,
-        257,
-        550
+        442,
+        262,
+        558
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "=== Preface.",
+      "text": "== P R E F A C E .",
       "box_2d": [
         322,
-        195,
-        330,
+        189,
+        337,
+        792
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "_In the First Part were explained Fifteen Chapters of_",
+      "box_2d": [
+        368,
+        192,
+        378,
+        803
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Genesis, _and those Things which they contain in an Internal_",
+      "box_2d": [
+        368,
+        218,
+        384,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Sense; _and to every_ Chapter _were adjoined what, by_",
+      "box_2d": [
+        368,
+        218,
+        384,
         805
       ],
       "confidence_label": "high",
@@ -38,107 +74,71 @@
     },
     {
       "page_number": 1,
-      "text": "_I_n the First Part were explained Fifteen Chapters of",
-      "box_2d": [
-        345,
-        215,
-        360,
-        810
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "_Genesis_, and those Things which they contain in an _Internal_",
-      "box_2d": [
-        368,
-        230,
-        384,
-        815
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "_Sense_; and to every Chapter were adjoined what, by",
-      "box_2d": [
-        368,
-        210,
-        384,
-        810
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "the _Divine Mercy of the Lord_, it was allowed me to see and",
-      "box_2d": [
-        412,
-        205,
-        428,
-        810
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "hear _in the World of Spirits_ and _in the Heaven of Angels._",
+      "text": "_the_ Divine Mercy _of the_ Lord, _it was allowed me to see and_",
       "box_2d": [
         435,
-        205,
+        219,
         451,
-        810
+        806
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "Now follows the Next Part, in which, to every Chapter will,",
+      "text": "_hear in the_ World of Spirits, _and in the_ Heaven of Angels.",
       "box_2d": [
         458,
-        205,
-        485,
-        810
+        222,
+        479,
+        806
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "in like Manner, be annexed Things of the same Nature; and",
+      "text": "_Now follows the Next Part, in which, to every_ Chapter _will,_",
       "box_2d": [
         458,
-        205,
+        224,
         498,
-        810
+        809
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "to this 16_th Chapter_ those Things in the Word which relate",
+      "text": "_in like Manner, be annexed Things of the same Nature; and_",
       "box_2d": [
         503,
-        200,
+        203,
         520,
-        810
+        809
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "to Visions and Dreams, also to such as are Prophetical. _I_",
+      "text": "_to this_ 16th Chapter _those Things in the Word which relate_",
       "box_2d": [
         526,
-        200,
+        206,
         543,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "_to Visions and Dreams, also to such as are_ Prophetical. _I_",
+      "box_2d": [
+        545,
+        207,
+        564,
         810
       ],
       "confidence_label": "high",
@@ -149,9 +149,9 @@
       "text": "_know there are but few will believe, that it is possible for any one_",
       "box_2d": [
         545,
-        200,
+        207,
         564,
-        810
+        812
       ],
       "confidence_label": "high",
       "notes": ""
@@ -160,10 +160,10 @@
       "page_number": 1,
       "text": "_to see those Things which are in the other Life, and from thence_",
       "box_2d": [
-        545,
-        200,
-        564,
-        810
+        569,
+        207,
+        586,
+        812
       ],
       "confidence_label": "high",
       "notes": ""
@@ -172,32 +172,20 @@
       "page_number": 1,
       "text": "_be able to report any Thing concerning the State of Souls after_",
       "box_2d": [
-        569,
-        200,
-        586,
-        815
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "_Death; because few believe the Resurrection, and indeed fewer_",
-      "box_2d": [
-        592,
-        200,
+        595,
+        208,
         608,
-        810
+        814
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "_of the Learned than of the Simple. It's true, they verbally own,_",
+      "text": "Death; _because few believe the Resurrection, and indeed fewer_",
       "box_2d": [
-        615,
-        195,
+        617,
+        209,
         630,
         815
       ],
@@ -206,36 +194,48 @@
     },
     {
       "page_number": 1,
-      "text": "_because it is agreeable to the Doctrine of Faith, that they shall_",
+      "text": "_of the Learned than of the_ Simple. _It's true, they verbally own,_",
       "box_2d": [
         684,
-        195,
-        692,
-        810
+        209,
+        698,
+        816
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "_rise again, but deny it in their Hearts._ Nay, there are some",
+      "text": "_because it is agreeable to the_ Doctrine of Faith, _that they shall_",
       "box_2d": [
         684,
-        195,
+        209,
         698,
-        810
+        816
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "who openly confess, _that then they will believe it, when any one_",
+      "text": "_rise again, but deny it in their Hearts. Nay, there are some_",
       "box_2d": [
-        685,
-        195,
-        698,
-        810
+        706,
+        209,
+        720,
+        818
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "_who openly confess, that then they will believe it, when any one_",
+      "box_2d": [
+        752,
+        212,
+        765,
+        819
       ],
       "confidence_label": "high",
       "notes": ""
@@ -244,82 +244,82 @@
       "page_number": 1,
       "text": "_shall rise from the Dead, and they should see, hear and touch_",
       "box_2d": [
-        710,
-        195,
-        720,
-        810
+        797,
+        212,
+        808,
+        822
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "_him._ But if this could be done, it might be done for the Satisfaction",
-      "box_2d": [
-        752,
-        190,
-        765,
-        810
-      ],
-      "confidence_label": "high",
-      "notes": ""
-    },
-    {
-      "page_number": 1,
-      "text": "of every one; and even then every such Person,",
+      "text": "_him. But if this could be done, it might be done for the Satisfaction_",
       "box_2d": [
         797,
-        190,
+        212,
         810,
-        810
+        822
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "who denies it in his Heart, would not be so convinced,",
+      "text": "_of every one; and even then every such Person,_",
       "box_2d": [
         797,
-        190,
+        213,
         810,
-        810
+        822
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "but a thousand Objections would arise, which would render",
+      "text": "_who denies it in his Heart, would not be so convinced,_",
       "box_2d": [
-        805,
-        190,
-        810,
-        810
+        823,
+        213,
+        833,
+        825
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "his Mind obdurate in the Negative. Some even say they",
+      "text": "_but a thousand Objections would arise, which would render_",
       "box_2d": [
-        842,
-        190,
+        848,
+        214,
         855,
-        810
+        825
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 1,
-      "text": "believe that they shall rise again, but it will be in the Day",
+      "text": "_his Mind obdurate in the Negative. Some even say they_",
       "box_2d": [
-        855,
-        185,
-        860,
-        810
+        899,
+        216,
+        917,
+        827
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "_believe that they shall rise again, but it will be in the Day_",
+      "box_2d": [
+        899,
+        218,
+        917,
+        828
       ],
       "confidence_label": "high",
       "notes": ""
@@ -341,9 +341,9 @@
       "text": "_of the Last Judgment, of which they have conceived an Opinion,_",
       "box_2d": [
         174,
-        225,
-        189,
-        815
+        227,
+        185,
+        828
       ],
       "confidence_label": "high",
       "notes": ""
@@ -353,9 +353,9 @@
       "text": "_that then all Things which are in this visible World_",
       "box_2d": [
         174,
-        225,
+        229,
         189,
-        820
+        827
       ],
       "confidence_label": "high",
       "notes": ""
@@ -365,9 +365,9 @@
       "text": "_shall perish; and because Men have, for many Ages, expected_",
       "box_2d": [
         174,
-        225,
+        229,
         189,
-        820
+        830
       ],
       "confidence_label": "high",
       "notes": ""
@@ -377,21 +377,21 @@
       "text": "_that Day in vain, they are yet in Doubt. But what_",
       "box_2d": [
         221,
-        225,
+        230,
         234,
-        820
+        830
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_is understood by the Last Judgment, of which there is Mention_",
+      "text": "_is understood by the Last_ Judgment, _of which there is Mention_",
       "box_2d": [
-        225,
-        225,
+        223,
+        230,
         234,
-        820
+        831
       ],
       "confidence_label": "high",
       "notes": ""
@@ -401,21 +401,21 @@
       "text": "_in the Word, shall, by the Divine Grace of the Lord,_",
       "box_2d": [
         288,
-        225,
+        231,
         300,
-        820
+        830
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_be declared at the End of the_ 17_th Chapter following: From_",
+      "text": "_be declared at the End of the_ 17th Chapter _following : From_",
       "box_2d": [
         288,
-        225,
+        231,
         300,
-        820
+        830
       ],
       "confidence_label": "high",
       "notes": ""
@@ -424,22 +424,22 @@
       "page_number": 2,
       "text": "_whence it may appear, what sort of Men there are in the_",
       "box_2d": [
-        295,
-        225,
-        300,
-        820
+        311,
+        232,
+        324,
+        831
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_Christian World at this Day._ The Sadducees, (_of whom_",
+      "text": "Christian World _at this Day._ _The_ Sadducees, _(of whom_",
       "box_2d": [
-        356,
-        225,
-        368,
-        820
+        379,
+        233,
+        385,
+        831
       ],
       "confidence_label": "high",
       "notes": ""
@@ -449,9 +449,9 @@
       "text": "_we have an Account in_ Matth. xxii. 22, _and the Verses following)_",
       "box_2d": [
         379,
-        225,
+        233,
         391,
-        820
+        832
       ],
       "confidence_label": "high",
       "notes": ""
@@ -461,9 +461,9 @@
       "text": "_openly denied a Resurrection; yet they did better_",
       "box_2d": [
         379,
-        225,
+        234,
         391,
-        820
+        834
       ],
       "confidence_label": "high",
       "notes": ""
@@ -472,10 +472,10 @@
       "page_number": 2,
       "text": "_than those who, at this Time, say, they do not deny it, because,_",
       "box_2d": [
-        401,
-        225,
-        414,
-        825
+        447,
+        234,
+        459,
+        834
       ],
       "confidence_label": "high",
       "notes": ""
@@ -485,9 +485,9 @@
       "text": "_as beforesaid, it is an Article of their Faith, and_",
       "box_2d": [
         470,
-        225,
-        475,
-        825
+        235,
+        482,
+        835
       ],
       "confidence_label": "high",
       "notes": ""
@@ -497,9 +497,9 @@
       "text": "_yet deny it in their Heart; so that they will say contrary to_",
       "box_2d": [
         492,
-        225,
-        500,
-        825
+        237,
+        505,
+        835
       ],
       "confidence_label": "high",
       "notes": ""
@@ -509,9 +509,9 @@
       "text": "_what they believe, and believe contrary to what they say:_",
       "box_2d": [
         492,
-        225,
+        236,
         505,
-        825
+        836
       ],
       "confidence_label": "high",
       "notes": ""
@@ -520,22 +520,22 @@
       "page_number": 2,
       "text": "_But that they may no longer confirm themselves in that false_",
       "box_2d": [
-        492,
-        225,
-        505,
-        825
+        514,
+        237,
+        527,
+        837
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_Opinion, it is granted me, by the Divine Grace of the Lord,_",
+      "text": "Opinion, _it is granted me, by the Divine Grace of the Lord,_",
       "box_2d": [
-        514,
-        225,
-        527,
-        825
+        581,
+        238,
+        589,
+        838
       ],
       "confidence_label": "high",
       "notes": ""
@@ -544,22 +544,22 @@
       "page_number": 2,
       "text": "_while I am in this World, to be in Spirit in the other Life_",
       "box_2d": [
-        581,
-        225,
-        592,
-        825
+        604,
+        239,
+        615,
+        838
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "(_for Man is a Spirit cloathed with a Body_) _and there to_",
+      "text": "_(for Man is a Spirit cloathed with a Body) and there to_",
       "box_2d": [
         604,
-        225,
+        240,
         615,
-        825
+        840
       ],
       "confidence_label": "high",
       "notes": ""
@@ -568,22 +568,22 @@
       "page_number": 2,
       "text": "_converse with Souls, who were risen again not long after their_",
       "box_2d": [
-        604,
-        225,
+        603,
+        241,
         615,
-        825
+        841
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_Decease; yea, almost with all those, who were known to me in_",
+      "text": "Decease; _yea, almost with all those, who were known to me in_",
       "box_2d": [
-        605,
-        225,
-        615,
-        830
+        672,
+        243,
+        683,
+        842
       ],
       "confidence_label": "high",
       "notes": ""
@@ -593,9 +593,9 @@
       "text": "_the Life of the Body, and are deceased; and also for several_",
       "box_2d": [
         672,
-        225,
+        244,
         683,
-        830
+        843
       ],
       "confidence_label": "high",
       "notes": ""
@@ -604,10 +604,10 @@
       "page_number": 2,
       "text": "_Years daily to talk with Spirits and Angels, and there_",
       "box_2d": [
-        672,
-        225,
-        683,
-        830
+        716,
+        245,
+        728,
+        843
       ],
       "confidence_label": "high",
       "notes": ""
@@ -617,21 +617,21 @@
       "text": "_to see stupendous Things, which never came into the Imagination_",
       "box_2d": [
         716,
-        225,
+        245,
         728,
-        830
+        844
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_of any Man; and this without the least Fallacy._",
+      "text": "_of any Man ; and this without the least Fallacy._",
       "box_2d": [
-        716,
-        225,
-        728,
-        830
+        785,
+        246,
+        794,
+        845
       ],
       "confidence_label": "high",
       "notes": ""
@@ -640,10 +640,10 @@
       "page_number": 2,
       "text": "_Since therefore many say, They would believe if any one should_",
       "box_2d": [
-        717,
-        225,
-        728,
-        830
+        785,
+        247,
+        796,
+        846
       ],
       "confidence_label": "high",
       "notes": ""
@@ -653,9 +653,9 @@
       "text": "_come to them from the other Life, it will be now seen whether,_",
       "box_2d": [
         785,
-        225,
+        248,
         796,
-        830
+        847
       ],
       "confidence_label": "high",
       "notes": ""
@@ -664,10 +664,10 @@
       "page_number": 2,
       "text": "_contrary to the Hardness of their Hearts, they will be_",
       "box_2d": [
-        785,
-        225,
-        796,
-        830
+        830,
+        248,
+        842,
+        847
       ],
       "confidence_label": "high",
       "notes": ""
@@ -676,22 +676,22 @@
       "page_number": 2,
       "text": "_persuaded. This I am able to aver, that those who come into_",
       "box_2d": [
-        830,
-        225,
+        832,
+        250,
         842,
-        835
+        848
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 2,
-      "text": "_the other Life from the Christian World, are of all Men_",
+      "text": "_the other Life from the_ Christian World, _are of all Men_",
       "box_2d": [
-        830,
-        220,
-        842,
-        835
+        857,
+        251,
+        870,
+        848
       ],
       "confidence_label": "high",
       "notes": ""
@@ -700,10 +700,10 @@
       "page_number": 2,
       "text": "_the worst, hating their Neighbour, hating the Faith, denying_",
       "box_2d": [
-        837,
-        220,
-        842,
-        835
+        900,
+        252,
+        935,
+        849
       ],
       "confidence_label": "high",
       "notes": ""
@@ -722,36 +722,36 @@
     },
     {
       "page_number": 3,
-      "text": "_the Lord (for in the other Life Hearts speak, and not_",
+      "text": "_the_ Lord _(for in the other Life Hearts speak, and not_",
       "box_2d": [
         180,
-        170,
+        172,
         192,
-        780
+        778
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 3,
-      "text": "_Mouths) and, above the rest, Adulterers. And because_",
+      "text": "Mouths) _and, above the rest,_ Adulterers. _And because_",
       "box_2d": [
         203,
-        170,
+        173,
         215,
-        780
+        779
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 3,
-      "text": "_Heaven begins to be thus removed from others who are within_",
+      "text": "Heaven _begins to be thus removed from others who are within_",
       "box_2d": [
         203,
-        170,
+        174,
         215,
-        780
+        778
       ],
       "confidence_label": "high",
       "notes": ""
@@ -761,9 +761,9 @@
       "text": "_the Church, it may be made appear, which has also been_",
       "box_2d": [
         225,
-        170,
+        173,
         237,
-        780
+        778
       ],
       "confidence_label": "high",
       "notes": ""
@@ -772,10 +772,10 @@
       "page_number": 3,
       "text": "_permitted me to know for a Certainty, that the last Time is_",
       "box_2d": [
-        227,
-        170,
-        237,
-        780
+        247,
+        174,
+        260,
+        781
       ],
       "confidence_label": "high",
       "notes": ""
@@ -784,10 +784,10 @@
       "page_number": 3,
       "text": "_at Hand._",
       "box_2d": [
-        255,
-        170,
-        260,
-        780
+        313,
+        173,
+        324,
+        321
       ],
       "confidence_label": "high",
       "notes": ""
@@ -797,9 +797,9 @@
       "text": "_As to the Internal Sense of the Word, what it is, and_",
       "box_2d": [
         314,
-        175,
+        214,
         326,
-        780
+        782
       ],
       "confidence_label": "high",
       "notes": ""
@@ -808,10 +808,10 @@
       "page_number": 3,
       "text": "_of what Kind, may be seen by consulting what has been_",
       "box_2d": [
-        314,
-        170,
+        322,
+        173,
         326,
-        780
+        784
       ],
       "confidence_label": "high",
       "notes": ""
@@ -820,22 +820,22 @@
       "page_number": 3,
       "text": "_said and shewn in the First Part._ N. 1 _to_ 5. 64. 65.",
       "box_2d": [
-        336,
-        170,
-        348,
-        780
+        381,
+        174,
+        393,
+        783
       ],
-      "confidence_label": "high",
-      "notes": ""
+      "confidence_label": "medium",
+      "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?"
     },
     {
       "page_number": 3,
       "text": "66. 167. 605. 920. 937. 1143. 1224. 1404. 1405.",
       "box_2d": [
         381,
-        170,
+        174,
         393,
-        780
+        784
       ],
       "confidence_label": "high",
       "notes": ""
@@ -844,10 +844,10 @@
       "page_number": 3,
       "text": "1408. 1409. 1502 _the End._ 1540. 1659. 1756 _the Beginning._",
       "box_2d": [
-        381,
-        170,
-        393,
-        780
+        403,
+        174,
+        417,
+        785
       ],
       "confidence_label": "high",
       "notes": ""
@@ -856,30 +856,30 @@
       "page_number": 3,
       "text": "1767 _to_ 1777, _and_ 1869 _to_ 1879. 1783. 1807.",
       "box_2d": [
-        387,
-        170,
-        393,
-        780
+        427,
+        175,
+        437,
+        785
       ],
       "confidence_label": "high",
       "notes": ""
     },
     {
       "page_number": 3,
-      "text": "_And in this Part, N._ 1886 _to_ 1889 _inclusive._",
+      "text": "_And in this Part,_ N. 1886 _to_ 1889 _inclusive._",
       "box_2d": [
-        422,
-        170,
-        437,
-        780
+        485,
+        174,
+        489,
+        620
       ],
       "confidence_label": "high",
       "notes": ""
     }
   ],
-  "confidence_score": 1.0,
+  "confidence_score": 0.99,
   "confidence_label": "high",
-  "notes": "",
+  "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?",
   "model": "gemini/gemini-3.1-pro-preview",
   "configuration": "temperature=1.0, media_resolution=medium, reasoning_effort=high"
 }
