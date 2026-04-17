@@ -1,0 +1,4760 @@
+{
+  "lines": [
+    {
+      "page_number": 1,
+      "text": "// Page 1",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "== The SECOND PART.",
+      "box_2d": [
+        366,
+        366,
+        387,
+        735
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "=== The Sixteenth CHAPTER of the",
+      "box_2d": [
+        423,
+        345,
+        440,
+        760
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "=== B O O K of G E N E S I S.",
+      "box_2d": [
+        465,
+        295,
+        493,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "{empty}1886. IN this Chapter is handled the Story of _Hagar_ and _Ismael_ ;",
+      "box_2d": [
+        549,
+        355,
+        560,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "but what is represented and signified by _Hagar_ and _Ismael_, in",
+      "box_2d": [
+        549,
+        357,
+        560,
+        846
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "the Internal Sense, hath as yet been known to no Man ; nor",
+      "box_2d": [
+        552,
+        357,
+        560,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "could it be known, because hitherto the World, even the Learned, have",
+      "box_2d": [
+        603,
+        276,
+        615,
+        847
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "thought, that the historical Parts of the Word, are nothing more than",
+      "box_2d": [
+        603,
+        276,
+        615,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "historical, and infold nothing deeper. And although they have said,",
+      "box_2d": [
+        639,
+        278,
+        651,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "that every _Iota_ is divinely inspired, yet by this they understood nothing",
+      "box_2d": [
+        639,
+        279,
+        651,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "more, than that such Things should be made manifest, and that something",
+      "box_2d": [
+        642,
+        278,
+        651,
+        850
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "dogmatical applicable to the Doctrine of Faith, might from",
+      "box_2d": [
+        676,
+        279,
+        688,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "thence be deduced, and be made Use of both by Teachers and",
+      "box_2d": [
+        677,
+        279,
+        688,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Learners ; and that being divinely inspired, they might have a divine",
+      "box_2d": [
+        712,
+        279,
+        723,
+        849
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Power on Minds, and do Good preferably to any other historical",
+      "box_2d": [
+        748,
+        279,
+        758,
+        850
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Work. Historicals, considered in themselves, contribute but little to",
+      "box_2d": [
+        748,
+        279,
+        759,
+        850
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "the Amendment of Man, and not at all to the Life eternal ; for in the",
+      "box_2d": [
+        748,
+        279,
+        759,
+        850
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "other Life Historicals are entirely forgotten. For, of what Use is it",
+      "box_2d": [
+        766,
+        280,
+        778,
+        851
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "there, if they knew the Story of _Hagar_ the Servant Maid, that she",
+      "box_2d": [
+        821,
+        281,
+        829,
+        851
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "was given to _Abram_ by _Sarai_ ; or if they were informed of the Story",
+      "box_2d": [
+        821,
+        280,
+        832,
+        851
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "of _Ismael_, nay, if they should be acquainted with that of _Abram_ ?",
+      "box_2d": [
+        821,
+        280,
+        832,
+        851
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "Nothing but those Things which are of the Lord and from the Lord,",
+      "box_2d": [
+        857,
+        280,
+        869,
+        852
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "// Page 2",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "are necessary for Souls, that they may enter into Heaven, and enjoy Happiness,",
+      "box_2d": [
+        139,
+        163,
+        152,
+        747
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "that is, Life eternal ; for these Things the Word was given, and",
+      "box_2d": [
+        139,
+        163,
+        152,
+        748
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "these are the Things which are contained in the Interiors of it.",
+      "box_2d": [
+        175,
+        163,
+        188,
+        650
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "{empty}1887. Inspiration supposes, that in all Parts of the Word, as well",
+      "box_2d": [
+        176,
+        185,
+        189,
+        749
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "those which are historical, as those that relate to other Matters, there",
+      "box_2d": [
+        211,
+        163,
+        225,
+        749
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "are celestial Things which belong to Love or Good, and spiritual",
+      "box_2d": [
+        211,
+        163,
+        225,
+        749
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "Things which belong to Faith or Truth, and so are Divine: For that",
+      "box_2d": [
+        247,
+        163,
+        262,
+        750
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "which is inspired by the Lord descends from Him, taking its Course",
+      "box_2d": [
+        265,
+        164,
+        279,
+        750
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "thro' the Angelic Heaven, and so thro' the World of Spirits, till it",
+      "box_2d": [
+        265,
+        164,
+        279,
+        751
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "comes to Man, with whom it remains such as it is in the Letter ;",
+      "box_2d": [
+        271,
+        165,
+        279,
+        750
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "but it is quite otherwise in its first Original ; in Heaven there is nothing",
+      "box_2d": [
+        301,
+        165,
+        315,
+        751
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "that concerns the History of the World, but every Thing is representative",
+      "box_2d": [
+        305,
+        165,
+        315,
+        751
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "presentative of Divine Matters, nor is any Thing else perceived",
+      "box_2d": [
+        323,
+        166,
+        335,
+        752
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "there ; which is also evident from this, that all Things there are",
+      "box_2d": [
+        340,
+        166,
+        350,
+        752
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "ineffable. Wherefore, unless Historicals were Representatives of Divine",
+      "box_2d": [
+        390,
+        166,
+        403,
+        752
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "vine Things, and so become Celestial, they cannot possibly be divinely",
+      "box_2d": [
+        409,
+        166,
+        420,
+        753
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "inspired: What the Word is in the Heavens, is only from its Internal",
+      "box_2d": [
+        409,
+        168,
+        438,
+        753
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "Sense ; for the _Internal Sense is the Word of the Lord in the Heavens_.",
+      "box_2d": [
+        409,
+        168,
+        444,
+        753
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "{empty}1888. That the Sense of the Letter of the Word is representative",
+      "box_2d": [
+        425,
+        189,
+        444,
+        754
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "of Divine Secrets, and that it is a Receptacle, and so a Repository of",
+      "box_2d": [
+        464,
+        168,
+        480,
+        755
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "the celestial and spiritual Things of the Lord, may be illustrated by",
+      "box_2d": [
+        464,
+        169,
+        480,
+        754
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "two Examples ; by the one, that by _David_ must not be understood",
+      "box_2d": [
+        482,
+        169,
+        521,
+        755
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_David_, but the Lord ; by the other, that Names signify nothing but",
+      "box_2d": [
+        492,
+        169,
+        540,
+        756
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "Things. It is said of _David_ in _Ezekiel_, Chap. xxxvii. 24, 25. _And_",
+      "box_2d": [
+        509,
+        169,
+        557,
+        756
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_David my Servant shall be King over them ; and they shall all have one Shepherd._",
+      "box_2d": [
+        525,
+        169,
+        575,
+        757
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_herd. And they shall dwell in the Land, even they and their Children, and_",
+      "box_2d": [
+        544,
+        170,
+        592,
+        757
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_their Childrens Children for ever, and my Servant David shall be their_",
+      "box_2d": [
+        561,
+        170,
+        609,
+        757
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_Prince for ever_. And in _Hosea_, _Afterward shall the Children of Israel_",
+      "box_2d": [
+        579,
+        170,
+        625,
+        757
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_return, and seek the Lord their God, and David their King_. Chap. iii.",
+      "box_2d": [
+        596,
+        170,
+        642,
+        758
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "5. These Things were written by those Prophets after _David_'s Time,",
+      "box_2d": [
+        612,
+        170,
+        658,
+        758
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "and yet it is plainly said that he shall be their King and Prince ; from",
+      "box_2d": [
+        662,
+        172,
+        674,
+        759
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "which it is manifest to every one, that by _David_, in the internal",
+      "box_2d": [
+        663,
+        172,
+        691,
+        759
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "Sense, must be understood the Lord ; so in other Places, even in",
+      "box_2d": [
+        662,
+        172,
+        710,
+        760
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "the historical, where _David_ is named. That the Names of",
+      "box_2d": [
+        679,
+        172,
+        727,
+        759
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "Kingdoms, Countries, Cities, and Men, signify Things, evidently appears",
+      "box_2d": [
+        697,
+        173,
+        742,
+        759
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "pears from the Prophets. For Example, let this one suffice from",
+      "box_2d": [
+        713,
+        172,
+        761,
+        760
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_Isaiah. Thus saith the Lord God of Hosts, O my People that dwellest in_",
+      "box_2d": [
+        732,
+        173,
+        776,
+        761
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_Zion, be not afraid of the Assyrian ; he shall smite thee with a Rod,_",
+      "box_2d": [
+        747,
+        172,
+        795,
+        762
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_and shall lift up his Staff against thee, after the Manner of Egypt._",
+      "box_2d": [
+        764,
+        174,
+        812,
+        763
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "// Page 3",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_And the Lord of Hosts shall stir up a Scourge for him, according to_",
+      "box_2d": [
+        130,
+        273,
+        163,
+        831
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_the Slaughter of Midian at the Rock of Oreb, so shall he lift it up after_",
+      "box_2d": [
+        137,
+        273,
+        181,
+        834
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_ter the Manner of Egypt. He is come to Ajath, he is passed to Migron;_",
+      "box_2d": [
+        154,
+        274,
+        198,
+        832
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_at Michmash he hath laid up his Carriages. They have gone over the_",
+      "box_2d": [
+        171,
+        273,
+        213,
+        833
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Passage ; they have taken up their Lodging at Geba, Ramoth is afraid,_",
+      "box_2d": [
+        186,
+        274,
+        234,
+        832
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Gibea of Saul is fled. Lift up thy Voice, O Daughter of Gallim ; cause_",
+      "box_2d": [
+        204,
+        275,
+        248,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_it to be heard unto Laish, O poor Anathoth. Madmenah is removed,_",
+      "box_2d": [
+        220,
+        275,
+        268,
+        834
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_the Inhabitants of Gebim gather themselves together to flee. As yet he_",
+      "box_2d": [
+        237,
+        275,
+        285,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_shall remain at Nob that Day ; he shall shake his Hand against the_",
+      "box_2d": [
+        255,
+        275,
+        301,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Mount of the Daughter of Zion, the Hill of Jerusalem. And he shall_",
+      "box_2d": [
+        271,
+        277,
+        319,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_cut down the Thickets of the Forests with Iron, and Lebanon shall fall_",
+      "box_2d": [
+        289,
+        276,
+        337,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_like a mighty one_. Chap. x. 24, 26 to 34. Here are almost merely",
+      "box_2d": [
+        307,
+        277,
+        351,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "Names, from which no Manner of Sense can proceed, unless all the",
+      "box_2d": [
+        324,
+        277,
+        370,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "Names should signify Things ; and if a Meaning should be fixed to",
+      "box_2d": [
+        341,
+        278,
+        387,
+        836
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "those Names, it could by no Means be acknowledged as the Word of the",
+      "box_2d": [
+        359,
+        279,
+        405,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "Lord. But who will believe, that all these, in an internal Sense,",
+      "box_2d": [
+        378,
+        279,
+        423,
+        836
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "should contain the Secrets of Heaven, and that by them should be",
+      "box_2d": [
+        395,
+        280,
+        440,
+        836
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "described the State of those, who by Reasonings from Knowledge,",
+      "box_2d": [
+        414,
+        279,
+        458,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "endeavour to enter into the Mysteries of Faith, and that by every",
+      "box_2d": [
+        430,
+        280,
+        476,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "Name, something peculiar to that State should be described ; and that",
+      "box_2d": [
+        447,
+        280,
+        495,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "those Reasonings should be remov'd by the celestial Things of Love",
+      "box_2d": [
+        467,
+        281,
+        512,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "and the spiritual Things of Faith ; this is from the Lord. That by",
+      "box_2d": [
+        485,
+        281,
+        530,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Assur_ should be signified Reasoning, of which we are here speaking,",
+      "box_2d": [
+        501,
+        281,
+        549,
+        839
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "may manifestly appear from those Things which were declared of",
+      "box_2d": [
+        517,
+        281,
+        567,
+        840
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Assur_, N. 119. 1186: That by _Egypt_ is signified Knowledge appears",
+      "box_2d": [
+        536,
+        282,
+        586,
+        840
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "from what is said, N. 1164. 1165. 1462, where may be seen and examin'd",
+      "box_2d": [
+        555,
+        282,
+        604,
+        840
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "amin'd whether it be so or not ; so it is with the rest of the Names ;",
+      "box_2d": [
+        574,
+        283,
+        622,
+        841
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "and so likewise with every particular Word.",
+      "box_2d": [
+        628,
+        283,
+        638,
+        680
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "{empty}1889. Thus it is in this Chapter in regard to the Names of _Abram_,",
+      "box_2d": [
+        628,
+        303,
+        658,
+        843
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_Sarai_, _Hagar_, and _Ismael_ ; which that they mean these Things, will",
+      "box_2d": [
+        629,
+        284,
+        677,
+        842
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "appear from the Contents, and afterwards from the Explanation of",
+      "box_2d": [
+        646,
+        284,
+        694,
+        843
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "every Particular in the following Notes ; but they are such as not",
+      "box_2d": [
+        664,
+        286,
+        712,
+        844
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "easily to be explained to the Apprehension ; for under these is discus'd",
+      "box_2d": [
+        680,
+        286,
+        732,
+        845
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "the Rational of the Lord, how it was conceived and born, and what",
+      "box_2d": [
+        699,
+        286,
+        749,
+        845
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "it was, before united to the Internal of the Lord, which was Jehovah.",
+      "box_2d": [
+        719,
+        287,
+        767,
+        846
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "That it cannot easily be explained to the Apprehension, the Reason is,",
+      "box_2d": [
+        739,
+        287,
+        784,
+        847
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "because it is not known at this Time, what is the Internal Man, what",
+      "box_2d": [
+        756,
+        287,
+        804,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "the Interior, and what the Exterior. When we speak of the Rational,",
+      "box_2d": [
+        774,
+        288,
+        820,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "or Rational Man, some Idea is conveyed ; but when it is said, that the",
+      "box_2d": [
+        791,
+        289,
+        841,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "// Page 4",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "Rational is the Middle between the Internal and External, this few",
+      "box_2d": [
+        127,
+        219,
+        141,
+        786
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "if any comprehend: But because we are here treating, in an Internal",
+      "box_2d": [
+        146,
+        219,
+        159,
+        787
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "Sense, of the Rational Man in the Lord, how he was conceived and",
+      "box_2d": [
+        182,
+        219,
+        197,
+        787
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "born from the Influx of the Internal Man to the External, (which are",
+      "box_2d": [
+        201,
+        220,
+        215,
+        788
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "the Things couched in the History of _Abram_, _Hagar_ and _Ismael_) that",
+      "box_2d": [
+        219,
+        220,
+        232,
+        789
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "nothing foreign to the Subject may obviate what follows in the Explanation,",
+      "box_2d": [
+        219,
+        220,
+        233,
+        789
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "nation, let it be known, that in every Man there is an Internal Man,",
+      "box_2d": [
+        220,
+        220,
+        233,
+        789
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "there is a Rational who is the Middle, and there is an External ; and",
+      "box_2d": [
+        274,
+        220,
+        283,
+        789
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "that these are absolutely distinct from each other ; concerning which",
+      "box_2d": [
+        274,
+        221,
+        287,
+        790
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "may be seen what has been before said, N. 978.",
+      "box_2d": [
+        275,
+        222,
+        288,
+        626
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "== C H A P. XVI.",
+      "box_2d": [
+        379,
+        423,
+        396,
+        597
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}1. NOW _Sarai_ _Abram_'s wife bare him no children: and she had",
+      "box_2d": [
+        438,
+        252,
+        451,
+        792
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "an handmaid, an Egyptian, whose Name was Hagar.",
+      "box_2d": [
+        439,
+        290,
+        451,
+        696
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}2 And Sarai said unto Abram, Behold now, the Lord hath restrained",
+      "box_2d": [
+        455,
+        240,
+        469,
+        794
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "ed me from bearing: I pray thee go in unto my maid: it may be",
+      "box_2d": [
+        493,
+        223,
+        504,
+        794
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "that I may obtain children by her: and Abram hearkened to the",
+      "box_2d": [
+        493,
+        223,
+        506,
+        794
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "voice of Sarai.",
+      "box_2d": [
+        516,
+        224,
+        526,
+        335
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}3 And Sarai Abram's wife, took Hagar her maid, the Egyptian, after",
+      "box_2d": [
+        548,
+        244,
+        558,
+        795
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "ter Abram had dwelt ten years in the land of Canaan, and gave her to",
+      "box_2d": [
+        548,
+        224,
+        560,
+        795
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "her husband Abram, to be his wife.",
+      "box_2d": [
+        551,
+        224,
+        561,
+        494
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}4 And he went in unto Hagar, and she conceived: And when",
+      "box_2d": [
+        584,
+        246,
+        596,
+        796
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "she saw that she had conceived, her mistress was despised in her",
+      "box_2d": [
+        602,
+        225,
+        614,
+        795
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "eyes.",
+      "box_2d": [
+        626,
+        225,
+        634,
+        260
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}5 And Sarai said unto Abram, My wrong be upon thee: I have",
+      "box_2d": [
+        608,
+        246,
+        614,
+        796
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "given my maid into thy bosom, and when she saw that she had conceived,",
+      "box_2d": [
+        657,
+        226,
+        669,
+        797
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "ceived, I was despised in her eyes: the Lord judge between me and",
+      "box_2d": [
+        674,
+        225,
+        687,
+        797
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "thee.",
+      "box_2d": [
+        680,
+        226,
+        689,
+        263
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}6 But Abram said unto Sarai, Behold thy maid _is_ in thine hand ;",
+      "box_2d": [
+        677,
+        246,
+        687,
+        798
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "do to her as it pleaseth thee. And when Sarai dealt hardly with her,",
+      "box_2d": [
+        730,
+        226,
+        741,
+        799
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "she fled from her face.",
+      "box_2d": [
+        734,
+        227,
+        743,
+        400
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}7 And the Angel of the Lord found her by a fountain of water, in",
+      "box_2d": [
+        729,
+        247,
+        741,
+        800
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "the wilderness, by the fountain, in the way to Shur :",
+      "box_2d": [
+        786,
+        227,
+        793,
+        638
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "{empty}8 And he said, Hagar, Sarai's maid, whence camest thou ? and",
+      "box_2d": [
+        765,
+        248,
+        778,
+        800
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "whither wilt thou go ? And she said, I flee from the face of my",
+      "box_2d": [
+        802,
+        228,
+        814,
+        801
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 4,
+      "text": "mistress Sarai.",
+      "box_2d": [
+        824,
+        228,
+        834,
+        334
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "// Page 5",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}9 And the Angel of the Lord said unto her, Return to thy mistress,",
+      "box_2d": [
+        127,
+        237,
+        137,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "stress, and submit thyself under her hands.",
+      "box_2d": [
+        182,
+        218,
+        185,
+        574
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}10 And the Angel of the Lord said unto her, I will multiply",
+      "box_2d": [
+        182,
+        237,
+        192,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "thy seed exceedingly, that it shall not be numbered for multitude.",
+      "box_2d": [
+        182,
+        219,
+        192,
+        755
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}11 And the Angel of the Lord said unto her, Behold thou art",
+      "box_2d": [
+        189,
+        238,
+        192,
+        807
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "with child, and shalt bear a son, and shalt call his name Ishmael ;",
+      "box_2d": [
+        219,
+        220,
+        228,
+        807
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "because the Lord hath heard thy affliction.",
+      "box_2d": [
+        237,
+        219,
+        247,
+        555
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}12 And he will be a wild man ; his hand will be against every",
+      "box_2d": [
+        274,
+        238,
+        284,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "man, and every man's hand against him : and he shall dwell in the",
+      "box_2d": [
+        274,
+        221,
+        284,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "presence of all his brethren.",
+      "box_2d": [
+        275,
+        221,
+        284,
+        442
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}13 And she called the Name of the Lord that spake unto her, Thou",
+      "box_2d": [
+        311,
+        240,
+        320,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "God seest me : for she said, Have I also here looked after him that",
+      "box_2d": [
+        329,
+        222,
+        339,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "seeth me ?",
+      "box_2d": [
+        346,
+        222,
+        356,
+        305
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}14 Wherefore the well was called, Beer-lahai-roi : Behold, It is between",
+      "box_2d": [
+        366,
+        239,
+        375,
+        810
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "tween Cadesh and Bered.",
+      "box_2d": [
+        384,
+        223,
+        393,
+        428
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}15 And Hagar bare Abram a son : and Abram called his son's name,",
+      "box_2d": [
+        403,
+        241,
+        413,
+        811
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "which Hagar bare, Ishmael.",
+      "box_2d": [
+        421,
+        223,
+        431,
+        452
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}16 And Abram was fourscore and six years old, when Hagar bare",
+      "box_2d": [
+        440,
+        242,
+        449,
+        811
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "Ishmael to Abram.",
+      "box_2d": [
+        457,
+        224,
+        467,
+        382
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "== The C O N T E N T S.",
+      "box_2d": [
+        492,
+        355,
+        508,
+        680
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}1890. THIS Chapter treats of the first Rational of the Lord,",
+      "box_2d": [
+        552,
+        243,
+        562,
+        812
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "which was conceived from the Influx of the Internal",
+      "box_2d": [
+        552,
+        323,
+        562,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "Man to the Affection of Knowledge of the External: The Internal",
+      "box_2d": [
+        589,
+        225,
+        595,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "Man is _Abram_ ; the Affection of Knowledge of the External is the",
+      "box_2d": [
+        589,
+        225,
+        598,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "_Egyptian Maid Hagar_ ; the Rational from thence is _Ismael_ ; which",
+      "box_2d": [
+        589,
+        225,
+        598,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "what it was is here described, and afterwards Chap. xxi. which being",
+      "box_2d": [
+        607,
+        226,
+        617,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "driven from Home, after that the Divine Rational of the Lord, represented",
+      "box_2d": [
+        644,
+        226,
+        654,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "sented by _Isaac_, was born.",
+      "box_2d": [
+        643,
+        225,
+        653,
+        453
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "{empty}1891. That the first Rational of the Lord was conceived, according",
+      "box_2d": [
+        681,
+        245,
+        690,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "to Order, by Influx, or the Conjunction of the Internal Man with the",
+      "box_2d": [
+        681,
+        226,
+        690,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "Life of the Affection of Knowledge, which is of the External, see Ver. 1,",
+      "box_2d": [
+        717,
+        227,
+        727,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "2, 3. But because from the External Man, such was his Nature,",
+      "box_2d": [
+        717,
+        227,
+        727,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "that he undervalued intellectual Truth, Ver. 4. wherefore the Lord",
+      "box_2d": [
+        723,
+        227,
+        727,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "thought of humbling it, Ver. 5, 6, 7, 8, 9. and when humbled, that it",
+      "box_2d": [
+        772,
+        228,
+        783,
+        817
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "should become celestial and spiritual, Ver. 10, 11. What it would be,",
+      "box_2d": [
+        791,
+        228,
+        801,
+        817
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 5,
+      "text": "if not humbled, is described, Ver. 12. The Beholding of the Lord",
+      "box_2d": [
+        791,
+        229,
+        801,
+        818
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "// Page 6",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "from his Interior Man to the Cause, Ver. 13, 14. Thus is described the",
+      "box_2d": [
+        142,
+        281,
+        151,
+        867
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Rational with regard to what it is; then the State of the Lord, when",
+      "box_2d": [
+        142,
+        282,
+        151,
+        866
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "begun, Ver. 15, 16.",
+      "box_2d": [
+        160,
+        282,
+        169,
+        461
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "== The INTERNAL SENSE.",
+      "box_2d": [
+        256,
+        412,
+        267,
+        742
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "{empty}1892. VER. 1. _Now Abram's Wife bare him no Children ; and she had an_",
+      "box_2d": [
+        307,
+        342,
+        316,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "_Handmaid an Egyptian, whose Name was Hagar_. _Sarai_ the Wife",
+      "box_2d": [
+        307,
+        344,
+        316,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "of _Abram_, bare him no Children, signifies that there was not yet a Rational",
+      "box_2d": [
+        323,
+        283,
+        331,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Man ; _Sarai_ is Truth joined to Good ; _Abram_ is the Internal Man of the",
+      "box_2d": [
+        325,
+        284,
+        331,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Lord who is Jehovah: And she had an Handmaid an _Egyptian_, signifies the",
+      "box_2d": [
+        354,
+        284,
+        363,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Affection of Knowledge: And her Name was _Hagar_, signifies the Life of the",
+      "box_2d": [
+        370,
+        285,
+        379,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "exterior or Natural Man.",
+      "box_2d": [
+        418,
+        285,
+        423,
+        483
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "{empty}1893. That _Sarai_ the Wife of _Abram_ bare him no Children, signifies, that",
+      "box_2d": [
+        434,
+        303,
+        441,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "there was not yet a Rational Man, appears from what follows concerning",
+      "box_2d": [
+        450,
+        285,
+        455,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "_Isaac_. For there are, as before intimated, in every Man, an Internal Man, a",
+      "box_2d": [
+        450,
+        285,
+        458,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "rational Man, who is the middle, and an External who is properly called the",
+      "box_2d": [
+        481,
+        286,
+        488,
+        868
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Natural Man ; these in the Lord are represented by _Abraham_, _Isaac_, and _Jacob_ ;",
+      "box_2d": [
+        497,
+        286,
+        506,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "the Internal Man by _Abraham_, the Rational by _Isaac_, and the Natural by _Jacob_.",
+      "box_2d": [
+        497,
+        286,
+        506,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "The Internal Man in the Lord, was Jehovah Himself, wherefore he so often",
+      "box_2d": [
+        497,
+        286,
+        506,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "called Him his Father, and in the Word he is called the only begotten Son of",
+      "box_2d": [
+        545,
+        286,
+        553,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "God, and the only Son of God. The rational Man is not born with him,",
+      "box_2d": [
+        545,
+        286,
+        553,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "but only the Faculty whereby he may become rational, as may appear to any",
+      "box_2d": [
+        545,
+        286,
+        553,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "one from this, that Infants new born, are not endued with Reason, but",
+      "box_2d": [
+        592,
+        287,
+        600,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "become rational by a Succession of Time, by the Means of sensual Objects",
+      "box_2d": [
+        592,
+        287,
+        600,
+        869
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "external and internal, in the same Manner as they are furnished with Learning",
+      "box_2d": [
+        592,
+        287,
+        600,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "ing and Knowledge: The Rational indeed appears in Children, but yet it is",
+      "box_2d": [
+        640,
+        287,
+        648,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "not rational, but only a kind of first Principle of it, which is known from",
+      "box_2d": [
+        640,
+        288,
+        648,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "this, that Reason belongs to adult Persons and antient Men. This Chapter",
+      "box_2d": [
+        656,
+        288,
+        664,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "treats of the Rational Man in the Lord ; this Rational Divine is represented",
+      "box_2d": [
+        671,
+        288,
+        680,
+        870
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "by _Isaac_ ; but the first Rational, before it is made Divine, by _Ismael_ ; wherefore,",
+      "box_2d": [
+        719,
+        288,
+        724,
+        871
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "fore, by what is said, that _Sarai_ the Wife of _Abram_, bare him no Children,",
+      "box_2d": [
+        719,
+        288,
+        727,
+        871
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "is signified, that hitherto there was not a Rational Divine. The Lord, as",
+      "box_2d": [
+        719,
+        289,
+        727,
+        871
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "beforesaid, was born like another Man, and as to those Things which he drew",
+      "box_2d": [
+        735,
+        289,
+        743,
+        872
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "from his Mother _Mary_, he was like another Man ; and because the Rational",
+      "box_2d": [
+        766,
+        289,
+        774,
+        872
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "is formed by Understanding and Knowledge, which enter by the external",
+      "box_2d": [
+        766,
+        289,
+        774,
+        871
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Senses, or the external Man, from thence His Rational was first born, as in",
+      "box_2d": [
+        782,
+        289,
+        790,
+        871
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "another Man ; but because all Things which were humane in Him his own",
+      "box_2d": [
+        797,
+        289,
+        806,
+        872
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Power made Divine, so also the Rational. His Rational is described in this",
+      "box_2d": [
+        813,
+        289,
+        822,
+        872
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 6,
+      "text": "Chapter, as also in Chap. XXI. where also, from Ver. 4 to 21, is discoursed",
+      "box_2d": [
+        828,
+        289,
+        838,
+        872
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "// Page 7",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "of _Hagar_ and _Ismael_ ; namely, that she was driven out, when _Isaac_ grew up,",
+      "box_2d": [
+        140,
+        226,
+        149,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "by whom is represented the Rational Divine.",
+      "box_2d": [
+        157,
+        226,
+        166,
+        558
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "{empty}1894. That _Sarai_ is Truth joined to Good, is before said and shewn, N.",
+      "box_2d": [
+        189,
+        246,
+        198,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "1468, and elsewhere ; in the same Manner as _Abram_ is the Internal Man of",
+      "box_2d": [
+        189,
+        227,
+        198,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "the Lord, who is Jehovah. That the Internal Man of the Lord, who is",
+      "box_2d": [
+        222,
+        227,
+        231,
+        804
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Jehovah, should be called Man, is because none is Man, but Jehovah alone ;",
+      "box_2d": [
+        222,
+        228,
+        231,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "for Man, in its genuine Sense, signifies that Being from whom Man is ; that",
+      "box_2d": [
+        222,
+        228,
+        231,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Being from whom Man is, is Divine, therefore Celestial and Spiritual ; without",
+      "box_2d": [
+        271,
+        228,
+        279,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "out the Divine Celestial and Spiritual there is nothing human in Man, but he",
+      "box_2d": [
+        271,
+        228,
+        279,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "is a Sort of Animal, such as that of the bestial Kind. Of the Being of",
+      "box_2d": [
+        271,
+        228,
+        279,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Jehovah, or the Lord, every Man has that which is Man, and from whence",
+      "box_2d": [
+        319,
+        229,
+        328,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "also he is called Man ; the Celestial, which makes Man, is, that he loves the",
+      "box_2d": [
+        319,
+        228,
+        328,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Lord, and that he loves his Neighbour ; so he is Man, because the Image of",
+      "box_2d": [
+        353,
+        229,
+        361,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "the Lord, and because he has that from the Lord ; otherwise he is a wild Beast.",
+      "box_2d": [
+        353,
+        229,
+        361,
+        807
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "That Jehovah, or the Lord, is alone Man, and that from Him Men have",
+      "box_2d": [
+        353,
+        230,
+        361,
+        807
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "that by which they are denominated Men, as also that one is more Man than",
+      "box_2d": [
+        385,
+        230,
+        394,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "another, may be seen N. 49. 288. 477. 565 ; and farther it may be made",
+      "box_2d": [
+        385,
+        230,
+        394,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "appear from this, that Jehovah, or the Lord, appeared to the Fathers of the",
+      "box_2d": [
+        418,
+        230,
+        426,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "most antient Church, as a Man, afterwards to _Abraham_, as also to the",
+      "box_2d": [
+        418,
+        230,
+        426,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Prophets ; wherefore, when there was no longer Man upon Earth, or no",
+      "box_2d": [
+        424,
+        231,
+        426,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "more any Thing heavenly and spiritual in Man, the Lord condescended to",
+      "box_2d": [
+        467,
+        232,
+        475,
+        808
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "take human Nature upon him, in which he was born like another Man, and",
+      "box_2d": [
+        483,
+        232,
+        492,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "which he made Divine, so also became the only Man: Besides, the whole",
+      "box_2d": [
+        483,
+        232,
+        492,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Heaven displays the Image of Man before the Lord, because that, from",
+      "box_2d": [
+        486,
+        232,
+        492,
+        810
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "whence Heaven is called the Greatest Man, is principally this, that the Lord",
+      "box_2d": [
+        532,
+        232,
+        541,
+        811
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "is there all in all.",
+      "box_2d": [
+        532,
+        232,
+        541,
+        359
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "{empty}1895. And she had an Handmaid an _Egyptian_, which that it signifies the",
+      "box_2d": [
+        532,
+        252,
+        541,
+        811
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Affection of Sciences, appears from the Signification of Handmaid, and from",
+      "box_2d": [
+        581,
+        234,
+        589,
+        812
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "the Signification of _Egypt_. _Sarai_, who was her Mistress or Lady, represents",
+      "box_2d": [
+        581,
+        234,
+        589,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "and signifies Truth joined to Good, as before said ; Truth joined to Good is",
+      "box_2d": [
+        581,
+        234,
+        589,
+        812
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Truth intellectual in the genuine Sense ; but Truth rational is below that, so",
+      "box_2d": [
+        630,
+        234,
+        638,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "inferior, this is bred from Knowledge and Understanding animated by an",
+      "box_2d": [
+        630,
+        234,
+        638,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Affection correspondent to these Things ; which Affection, because it is of",
+      "box_2d": [
+        630,
+        234,
+        638,
+        813
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "the exterior Man, ought to be in Subjection to Truth Intellectual which is in",
+      "box_2d": [
+        679,
+        235,
+        687,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "the inward Man, as a Maid to her Mistress, or a Woman Servant to her Lady,",
+      "box_2d": [
+        695,
+        235,
+        703,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "wherefore this Affection is represented and signified by the Maid _Hagar_.",
+      "box_2d": [
+        695,
+        235,
+        703,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "How these Things are so, cannot easily be convey'd to the Apprehension ;",
+      "box_2d": [
+        695,
+        236,
+        703,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "for it must first be known, what Truth Intellectual is in the genuine Sense,",
+      "box_2d": [
+        701,
+        236,
+        703,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "then how the Rational is bred, that it proceeds purely from the Internal Man",
+      "box_2d": [
+        760,
+        236,
+        765,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "as its Father, and from the Exterior or Natural as its Mother, without the",
+      "box_2d": [
+        760,
+        236,
+        768,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "Conjunction of both which, nothing rational can possibly exist. The Rational",
+      "box_2d": [
+        760,
+        236,
+        768,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "is not bred from Science and Knowledge, as is supposed, but from the Affection",
+      "box_2d": [
+        793,
+        236,
+        801,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "fection of Science and Knowledge, as can only appear from this, that not",
+      "box_2d": [
+        793,
+        237,
+        801,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 7,
+      "text": "any one can ever become rational, unless something agreeable, or the Affection of",
+      "box_2d": [
+        796,
+        237,
+        801,
+        817
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "// Page 8",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Science and Knowledge aspires. Affection is that maternal Life, and that",
+      "box_2d": [
+        178,
+        192,
+        187,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Celestial and Spiritual in the Affection is the paternal Life, from whence by",
+      "box_2d": [
+        178,
+        192,
+        187,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "how much there is of Affection, and of what Kind that Affection is, so far",
+      "box_2d": [
+        211,
+        193,
+        220,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "does a Man become rational, and in such Manner rational. Knowledge and",
+      "box_2d": [
+        227,
+        194,
+        236,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Understanding are in themselves nothing more than dead Things, or Causes",
+      "box_2d": [
+        227,
+        194,
+        236,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "instrumental, which are animated by the Life of Affection ; this is the Conception",
+      "box_2d": [
+        227,
+        194,
+        236,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "ception of a Rational Man in every one. That it should be an _Egyptian_, and",
+      "box_2d": [
+        275,
+        195,
+        284,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "thus called, the Reason is, because _Egypt_ signifies Knowledge, as before shewn,",
+      "box_2d": [
+        275,
+        195,
+        284,
+        772
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "N. 1164. 1165. 1186. 1462.",
+      "box_2d": [
+        276,
+        195,
+        284,
+        419
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "{empty}1896. Whose Name was _Hagar_, which that it signifies the Life of the",
+      "box_2d": [
+        323,
+        214,
+        331,
+        772
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "exterior or natural Man, may appear from those Things which have been said,",
+      "box_2d": [
+        323,
+        196,
+        332,
+        772
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "as well from the Signification of _Hagar_, as that she was a Stranger or",
+      "box_2d": [
+        356,
+        196,
+        362,
+        772
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Sojourner ; Strangers represented those who were instructed, and Sojourning",
+      "box_2d": [
+        356,
+        196,
+        364,
+        773
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Instruction, in the Life begun, as before shewn, N 1463. When it is said",
+      "box_2d": [
+        356,
+        196,
+        364,
+        773
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "in the Word, whose Name is, or as here, whose Name was _Hagar_, it",
+      "box_2d": [
+        404,
+        197,
+        409,
+        774
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "signifies that the Name includes something worthy of Observation, for to",
+      "box_2d": [
+        404,
+        198,
+        412,
+        773
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "call one by his Name, is to know what he is, as before was shewn, N. 144.",
+      "box_2d": [
+        404,
+        198,
+        412,
+        774
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "145. 340. for not a Tittle has a Place in the Word without Cause,",
+      "box_2d": [
+        420,
+        198,
+        429,
+        775
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "or without a Signification of some Thing in an Internal Sense.",
+      "box_2d": [
+        452,
+        198,
+        461,
+        642
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "{empty}1897. Ver. 2. _And Sarai said unto Abram, Behold now the Lord hath restrained_",
+      "box_2d": [
+        469,
+        218,
+        477,
+        776
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "_me from bearing : I pray thee go in unto my Maid, it may be that I may obtain_",
+      "box_2d": [
+        469,
+        199,
+        477,
+        776
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "_Children by her: And Abram hearkened to the Voice of Sarai._ Sarai said unto",
+      "box_2d": [
+        485,
+        199,
+        494,
+        776
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "_Abram_, signifies, that so it was perceived. Behold the Lord hath restrained",
+      "box_2d": [
+        517,
+        200,
+        526,
+        777
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "me from bearing, signifies the State before the Interior or Divine Rational",
+      "box_2d": [
+        517,
+        201,
+        526,
+        777
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Man is born. I pray thee go in unto my Maid, signifies the Conjunction",
+      "box_2d": [
+        519,
+        200,
+        526,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "with the Exterior. It may be that I may obtain Children by her, signifies",
+      "box_2d": [
+        536,
+        201,
+        542,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "that so the Rational may be born. And _Abram_ hearkened to the Voice of",
+      "box_2d": [
+        565,
+        201,
+        574,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "_Sarai_, signifies that it could not be done otherwise.",
+      "box_2d": [
+        597,
+        201,
+        605,
+        558
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "{empty}1898. That _Sarai_ said unto _Abram_, signifies that so it was perceived,",
+      "box_2d": [
+        581,
+        222,
+        590,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "appears from the Signification of _Sarai_ and _Abram_ ; namely, that _Sarai_ is",
+      "box_2d": [
+        630,
+        202,
+        638,
+        779
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Truth joined to Good, and _Abram_ the Internal Man ; wherefore what was",
+      "box_2d": [
+        630,
+        202,
+        638,
+        779
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "said by _Sarai_ to _Abram_, cannot signify in an Internal Sense, any Discourse,",
+      "box_2d": [
+        662,
+        203,
+        671,
+        780
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "but a Perception. The Perception of the Lord, then was from Truth joined",
+      "box_2d": [
+        678,
+        203,
+        687,
+        780
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "to Good, which it suggested to Him, in what Manner the Thing should be.",
+      "box_2d": [
+        694,
+        203,
+        703,
+        781
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Something like this is in the heavenly Man, who takes a Perception, there is",
+      "box_2d": [
+        694,
+        203,
+        703,
+        780
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "some Truth joined to the Good which it suggests, afterwards it is Good",
+      "box_2d": [
+        694,
+        204,
+        703,
+        781
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "from which or by which the Truth is perceived. That to say, in an",
+      "box_2d": [
+        711,
+        204,
+        719,
+        781
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "internal Sense, signifies to perceive, see N. 1791. 815. 1819. 1822.",
+      "box_2d": [
+        727,
+        204,
+        735,
+        706
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "{empty}1899. Behold, the Lord hath restrained me from bearing, which that",
+      "box_2d": [
+        775,
+        224,
+        783,
+        782
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "it signifies the State before the Interior or Divine Rational Man is born, appears",
+      "box_2d": [
+        791,
+        205,
+        800,
+        782
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "from those Things which have been before said concerning the Conception",
+      "box_2d": [
+        791,
+        205,
+        800,
+        783
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "and Birth of the Rational Man, namely, that the Divine Rational Man of the",
+      "box_2d": [
+        791,
+        205,
+        800,
+        783
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Lord is represented by _Isaac_, but the first Rational Man, who should be",
+      "box_2d": [
+        807,
+        205,
+        816,
+        783
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 8,
+      "text": "Divine, by _Ismael_ ; that these Things might be represented, so long as",
+      "box_2d": [
+        823,
+        205,
+        832,
+        784
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "// Page 9",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "_Sarai_ remained barren, and till _Ismael_ was become a Youth, of whom in Chap.",
+      "box_2d": [
+        193,
+        260,
+        201,
+        821
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "XXI. therefore it is here said, that Jehovah had restrained her from bearing.",
+      "box_2d": [
+        193,
+        261,
+        201,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "{empty}1900. I pray thee go in unto my Maid, that it signifies the Conjunction",
+      "box_2d": [
+        193,
+        280,
+        201,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "with the Exterior, appears also from those Things which have been before",
+      "box_2d": [
+        225,
+        261,
+        233,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "said, namely, that the Rational Man was conceived and begotten by the",
+      "box_2d": [
+        241,
+        262,
+        249,
+        823
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Internal Man as the Father, and by the Exterior as the Mother ; this Life of",
+      "box_2d": [
+        272,
+        262,
+        279,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Man is from the Internal Man, which cannot have Communication with the",
+      "box_2d": [
+        288,
+        262,
+        294,
+        823
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "External, except a most obscure one, before the receiving Vessels are prepared,",
+      "box_2d": [
+        288,
+        263,
+        296,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "which belong to the Memory, which is done by Knowledge and Science ; the Influx",
+      "box_2d": [
+        288,
+        263,
+        296,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "of the Internal Man is to the Knowledge and Understanding of the Exterior,",
+      "box_2d": [
+        304,
+        264,
+        312,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "by the intervening Affection ; before these Things are done, tho' in the mean",
+      "box_2d": [
+        310,
+        264,
+        312,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Time there be a Communication, yet it is by the Affections only, by which",
+      "box_2d": [
+        325,
+        265,
+        328,
+        826
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "the External Man is governed, after that the most common Motions, and",
+      "box_2d": [
+        367,
+        265,
+        375,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "some Appetites, then some obscure Inclinations, such as appear in Infants:",
+      "box_2d": [
+        367,
+        265,
+        375,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "But this Life becomes gradually more distinct as the Vessels of the Memory",
+      "box_2d": [
+        368,
+        265,
+        375,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "are formed by Knowledge, and the Vessels of the interior Memory by",
+      "box_2d": [
+        383,
+        265,
+        391,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Rationals ; thus, as these Vessels are formed, and disposed in Order, and",
+      "box_2d": [
+        399,
+        265,
+        407,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "indeed in such Order, that they may mutually regard each other respectively",
+      "box_2d": [
+        446,
+        265,
+        454,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "like Kindred and Affinity, or as Societies and Families, so the Correspondence",
+      "box_2d": [
+        462,
+        264,
+        470,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "of the External Man with the Internal is perfected ; and yet better by Rationals",
+      "box_2d": [
+        478,
+        264,
+        486,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "which are intermediate ; but however not agreeably, unless the Knowledge",
+      "box_2d": [
+        493,
+        264,
+        502,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "by which those are formed, be Truths, for the Celestials and Spirituals of the",
+      "box_2d": [
+        493,
+        264,
+        502,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Internal Man do not find a Correspondency to themselves, except in Truths ;",
+      "box_2d": [
+        493,
+        263,
+        502,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "these in the organical Forms of either Memory, are the genuine Vessels, in",
+      "box_2d": [
+        524,
+        263,
+        533,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "which the Celestials of Love and the Spirituals of Faith may be fitted: For",
+      "box_2d": [
+        524,
+        263,
+        533,
+        824
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "then they are disposed by the Lord according to the Idea and Image of the",
+      "box_2d": [
+        572,
+        263,
+        576,
+        823
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Societies of Heaven, or his Kingdom, so that Man becomes, in a little Form,",
+      "box_2d": [
+        587,
+        263,
+        591,
+        823
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Heaven or the Kingdom of the Lord, as also the Minds of those who",
+      "box_2d": [
+        587,
+        263,
+        596,
+        823
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "are conversant in the Celestials of Love and the Spirituals of Faith: But",
+      "box_2d": [
+        587,
+        263,
+        596,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "these Things are spoken to those who love to employ their Thoughts on profound",
+      "box_2d": [
+        590,
+        263,
+        596,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "found Subjects.",
+      "box_2d": [
+        619,
+        263,
+        627,
+        375
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "{empty}1901. It may be that I shall obtain Children by her, which that it signifies",
+      "box_2d": [
+        635,
+        283,
+        643,
+        821
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "that the Rational may be so born, may appear from the Signification of the",
+      "box_2d": [
+        635,
+        263,
+        643,
+        821
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Word here used, when applied to Generation, so needs no Explanation. By",
+      "box_2d": [
+        682,
+        263,
+        691,
+        821
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "_Sarai_, as before said, is signified Intellectual Truth, which, like a Wife,",
+      "box_2d": [
+        682,
+        262,
+        691,
+        821
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "is joined to Good. Intellectual Truth, that which is in the inward Man,",
+      "box_2d": [
+        682,
+        263,
+        691,
+        820
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "is wholly barren, and like a childless Mother, when there is not any",
+      "box_2d": [
+        698,
+        262,
+        707,
+        820
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Rational, into which and by which it flows, for without a Rational",
+      "box_2d": [
+        729,
+        262,
+        738,
+        820
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "Medium, it cannot flow with any Truth into the exterior Man ; as may",
+      "box_2d": [
+        729,
+        262,
+        738,
+        820
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "appear from Infants, who can know nothing of Truth, before they are instructed",
+      "box_2d": [
+        777,
+        261,
+        784,
+        819
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "structed by Knowledge ; but, as before observed, by how much the better and",
+      "box_2d": [
+        792,
+        262,
+        799,
+        819
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "more perfectly they are instructed in Knowledge, by so much the better and",
+      "box_2d": [
+        808,
+        261,
+        815,
+        819
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "more perfectly may intellectual Truth, which is in the inward Man or in Good,",
+      "box_2d": [
+        808,
+        261,
+        817,
+        818
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 9,
+      "text": "be communicated. This intellectual Truth by _Sarai_ represent, the Spiritual",
+      "box_2d": [
+        808,
+        260,
+        817,
+        817
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "// Page 10",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "itself, which flows down from Heaven, and, by the internal Way, comes to",
+      "box_2d": [
+        167,
+        192,
+        174,
+        765
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "every Man, and continually meets with Knowledge, which is insinuated by",
+      "box_2d": [
+        183,
+        192,
+        189,
+        764
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "the Sensitive Faculties, and implanted in the Memory, which Man is ignorant",
+      "box_2d": [
+        183,
+        192,
+        191,
+        765
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "of, because it is too pure to be perceived by a common Idea ; it is like a kind",
+      "box_2d": [
+        183,
+        193,
+        191,
+        765
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "of Light which illuminates, and gives the Faculty of Knowledge, thinking",
+      "box_2d": [
+        215,
+        193,
+        224,
+        765
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "and understanding: The Rational, as it cannot exist unless by the Influx of",
+      "box_2d": [
+        247,
+        194,
+        250,
+        766
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "intellectual Truth represented by _Sarai_, appears in no other Light than as her",
+      "box_2d": [
+        247,
+        194,
+        256,
+        766
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Son, when the Rational is formed of Truths joined to Good, and more so",
+      "box_2d": [
+        247,
+        194,
+        256,
+        767
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "when it is formed of Good which is productive of Truths, then it is the",
+      "box_2d": [
+        250,
+        194,
+        256,
+        767
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "genuine Son, before indeed it is acknowledged as the Son, yet not the genuine,",
+      "box_2d": [
+        295,
+        195,
+        303,
+        767
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "but as of the Handmaid, till he is adopted ; which is the Reason that it is",
+      "box_2d": [
+        295,
+        195,
+        303,
+        767
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "here said, that I may obtain Children by her.",
+      "box_2d": [
+        311,
+        195,
+        320,
+        521
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "{empty}1902. And _Abram_ hearkened to the Voice of _Sarai_, which that it signifies",
+      "box_2d": [
+        343,
+        214,
+        351,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "it could no otherwise be done, may appear from the Series of Things in an",
+      "box_2d": [
+        359,
+        195,
+        367,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "internal Sense, and from the Necessity that the Rational can no otherwise be",
+      "box_2d": [
+        359,
+        195,
+        367,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "born in Man. If Man was infected with no hereditary Evil, then the",
+      "box_2d": [
+        359,
+        195,
+        367,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Rational would be born immediately of the Marriage of the Celestials of the",
+      "box_2d": [
+        375,
+        195,
+        384,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Internal Man with his Spirituals, and by the Rational would be born the",
+      "box_2d": [
+        407,
+        195,
+        415,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Scientific ; so that Man, the Instant he came into the World, would have all",
+      "box_2d": [
+        407,
+        194,
+        415,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "the Rational and all the Scientific ; for this would be according to the Order",
+      "box_2d": [
+        456,
+        194,
+        464,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "of the Influx ; which may be concluded from this, that all Animals, of every",
+      "box_2d": [
+        456,
+        194,
+        464,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Kind, are brought forth with every Sort of Knowledge, which is necessary",
+      "box_2d": [
+        488,
+        194,
+        495,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "for and conducive to their Food, Defence, Dwelling and Procreation, because",
+      "box_2d": [
+        488,
+        194,
+        496,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "cause their Nature is according to Order ; what could not Man do if in him",
+      "box_2d": [
+        488,
+        194,
+        496,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Order was not destroyed ? for he alone is born with no Knowledge. What",
+      "box_2d": [
+        520,
+        194,
+        528,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "occasions his being born in this Manner is, the Evil which is hereditary to him",
+      "box_2d": [
+        552,
+        193,
+        556,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "from Father and Mother ; from whence it comes that all his Faculties are in a",
+      "box_2d": [
+        552,
+        193,
+        560,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "contrary Order respectively to Truths and Good, which cannot be reduced",
+      "box_2d": [
+        552,
+        193,
+        560,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "into corresponding Forms by the immediate Influx of Celestials and Spirituals",
+      "box_2d": [
+        568,
+        193,
+        576,
+        768
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "from the Lord ; which is the Reason, that the Rational of Man is to be found",
+      "box_2d": [
+        569,
+        193,
+        576,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "quite after another Manner and in another Way, even by Science and Knowledge",
+      "box_2d": [
+        616,
+        193,
+        624,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "ledge insinuated by the Senses, so flowing in by an external Way, and so in",
+      "box_2d": [
+        616,
+        193,
+        624,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "an inverted Order ; thus Man is miraculously made Rational by the Lord ;",
+      "box_2d": [
+        616,
+        193,
+        624,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "this is understood, by going in unto the Maid, by which is signified the Conjunction",
+      "box_2d": [
+        632,
+        193,
+        640,
+        769
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "junction of the Internal Man with the External ; and by that, _Abram_ hearkened",
+      "box_2d": [
+        680,
+        193,
+        689,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "ened to the Voice of _Sarai_, is signified, that it could not otherwise be done.",
+      "box_2d": [
+        696,
+        193,
+        704,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "The Lord, because he was born as another Man, and had what was hereditary",
+      "box_2d": [
+        696,
+        194,
+        704,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "from his Mother, was in this like another Man, for this Cause, that by",
+      "box_2d": [
+        729,
+        193,
+        736,
+        770
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Struggles with Temptations and by Victories, he might reduce all Things into",
+      "box_2d": [
+        729,
+        193,
+        736,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "Order ; therefore His Rational was also conceived and born in like Manner as",
+      "box_2d": [
+        729,
+        193,
+        736,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "in another Man, with this Difference, that the Divine or Jehovah, was in all",
+      "box_2d": [
+        776,
+        193,
+        784,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "and singular Respects intimately in Him, so also the Life of Love towards",
+      "box_2d": [
+        776,
+        193,
+        785,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "the universal Race of Mankind, for whom and for whose Salvation, he fought",
+      "box_2d": [
+        776,
+        193,
+        785,
+        771
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "in all his Temptations.",
+      "box_2d": [
+        807,
+        193,
+        816,
+        360
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 10,
+      "text": "{empty}1903.",
+      "box_2d": [
+        824,
+        735,
+        833,
+        781
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    }
+  ],
+  "confidence_score": 0.95,
+  "confidence_label": "high",
+  "model": "gemini/gemini-3.1-pro-preview",
+  "configuration": "temperature=1.0, media_resolution=medium, reasoning_effort=high"
+}

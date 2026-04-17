@@ -1,0 +1,956 @@
+{
+  "lines": [
+    {
+      "page_number": 1,
+      "text": "// Page 1",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 1,
+      "text": "== T H E",
+      "box_2d": [
+        252,
+        442,
+        262,
+        558
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "== P R E F A C E .",
+      "box_2d": [
+        322,
+        189,
+        337,
+        792
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_In the First Part were explained Fifteen Chapters of_",
+      "box_2d": [
+        368,
+        192,
+        378,
+        803
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "Genesis, _and those Things which they contain in an Internal_",
+      "box_2d": [
+        368,
+        218,
+        384,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "Sense; _and to every_ Chapter _were adjoined what, by_",
+      "box_2d": [
+        368,
+        218,
+        384,
+        805
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_the_ Divine Mercy _of the_ Lord, _it was allowed me to see and_",
+      "box_2d": [
+        435,
+        219,
+        451,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_hear in the_ World of Spirits, _and in the_ Heaven of Angels.",
+      "box_2d": [
+        458,
+        222,
+        479,
+        806
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_Now follows the Next Part, in which, to every_ Chapter _will,_",
+      "box_2d": [
+        458,
+        224,
+        498,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_in like Manner, be annexed Things of the same Nature; and_",
+      "box_2d": [
+        503,
+        203,
+        520,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_to this_ 16th Chapter _those Things in the Word which relate_",
+      "box_2d": [
+        526,
+        206,
+        543,
+        809
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_to Visions and Dreams, also to such as are_ Prophetical. _I_",
+      "box_2d": [
+        545,
+        207,
+        564,
+        810
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_know there are but few will believe, that it is possible for any one_",
+      "box_2d": [
+        545,
+        207,
+        564,
+        812
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_to see those Things which are in the other Life, and from thence_",
+      "box_2d": [
+        569,
+        207,
+        586,
+        812
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_be able to report any Thing concerning the State of Souls after_",
+      "box_2d": [
+        595,
+        208,
+        608,
+        814
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "Death; _because few believe the Resurrection, and indeed fewer_",
+      "box_2d": [
+        617,
+        209,
+        630,
+        815
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_of the Learned than of the_ Simple. _It's true, they verbally own,_",
+      "box_2d": [
+        684,
+        209,
+        698,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_because it is agreeable to the_ Doctrine of Faith, _that they shall_",
+      "box_2d": [
+        684,
+        209,
+        698,
+        816
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_rise again, but deny it in their Hearts. Nay, there are some_",
+      "box_2d": [
+        706,
+        209,
+        720,
+        818
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_who openly confess, that then they will believe it, when any one_",
+      "box_2d": [
+        752,
+        212,
+        765,
+        819
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_shall rise from the Dead, and they should see, hear and touch_",
+      "box_2d": [
+        797,
+        212,
+        808,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_him. But if this could be done, it might be done for the Satisfaction_",
+      "box_2d": [
+        797,
+        212,
+        810,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_of every one; and even then every such Person,_",
+      "box_2d": [
+        797,
+        213,
+        810,
+        822
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_who denies it in his Heart, would not be so convinced,_",
+      "box_2d": [
+        823,
+        213,
+        833,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_but a thousand Objections would arise, which would render_",
+      "box_2d": [
+        848,
+        214,
+        855,
+        825
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_his Mind obdurate in the Negative. Some even say they_",
+      "box_2d": [
+        899,
+        216,
+        917,
+        827
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 1,
+      "text": "_believe that they shall rise again, but it will be in the Day_",
+      "box_2d": [
+        899,
+        218,
+        917,
+        828
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "// Page 2",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 2,
+      "text": "_of the Last Judgment, of which they have conceived an Opinion,_",
+      "box_2d": [
+        174,
+        227,
+        185,
+        828
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_that then all Things which are in this visible World_",
+      "box_2d": [
+        174,
+        229,
+        189,
+        827
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_shall perish; and because Men have, for many Ages, expected_",
+      "box_2d": [
+        174,
+        229,
+        189,
+        830
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_that Day in vain, they are yet in Doubt. But what_",
+      "box_2d": [
+        221,
+        230,
+        234,
+        830
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_is understood by the Last_ Judgment, _of which there is Mention_",
+      "box_2d": [
+        223,
+        230,
+        234,
+        831
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_in the Word, shall, by the Divine Grace of the Lord,_",
+      "box_2d": [
+        288,
+        231,
+        300,
+        830
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_be declared at the End of the_ 17th Chapter _following : From_",
+      "box_2d": [
+        288,
+        231,
+        300,
+        830
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_whence it may appear, what sort of Men there are in the_",
+      "box_2d": [
+        311,
+        232,
+        324,
+        831
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "Christian World _at this Day._ _The_ Sadducees, _(of whom_",
+      "box_2d": [
+        379,
+        233,
+        385,
+        831
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_we have an Account in_ Matth. xxii. 22, _and the Verses following)_",
+      "box_2d": [
+        379,
+        233,
+        391,
+        832
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_openly denied a Resurrection; yet they did better_",
+      "box_2d": [
+        379,
+        234,
+        391,
+        834
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_than those who, at this Time, say, they do not deny it, because,_",
+      "box_2d": [
+        447,
+        234,
+        459,
+        834
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_as beforesaid, it is an Article of their Faith, and_",
+      "box_2d": [
+        470,
+        235,
+        482,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_yet deny it in their Heart; so that they will say contrary to_",
+      "box_2d": [
+        492,
+        237,
+        505,
+        835
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_what they believe, and believe contrary to what they say:_",
+      "box_2d": [
+        492,
+        236,
+        505,
+        836
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_But that they may no longer confirm themselves in that false_",
+      "box_2d": [
+        514,
+        237,
+        527,
+        837
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "Opinion, _it is granted me, by the Divine Grace of the Lord,_",
+      "box_2d": [
+        581,
+        238,
+        589,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_while I am in this World, to be in Spirit in the other Life_",
+      "box_2d": [
+        604,
+        239,
+        615,
+        838
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_(for Man is a Spirit cloathed with a Body) and there to_",
+      "box_2d": [
+        604,
+        240,
+        615,
+        840
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_converse with Souls, who were risen again not long after their_",
+      "box_2d": [
+        603,
+        241,
+        615,
+        841
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "Decease; _yea, almost with all those, who were known to me in_",
+      "box_2d": [
+        672,
+        243,
+        683,
+        842
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_the Life of the Body, and are deceased; and also for several_",
+      "box_2d": [
+        672,
+        244,
+        683,
+        843
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_Years daily to talk with Spirits and Angels, and there_",
+      "box_2d": [
+        716,
+        245,
+        728,
+        843
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_to see stupendous Things, which never came into the Imagination_",
+      "box_2d": [
+        716,
+        245,
+        728,
+        844
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_of any Man ; and this without the least Fallacy._",
+      "box_2d": [
+        785,
+        246,
+        794,
+        845
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_Since therefore many say, They would believe if any one should_",
+      "box_2d": [
+        785,
+        247,
+        796,
+        846
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_come to them from the other Life, it will be now seen whether,_",
+      "box_2d": [
+        785,
+        248,
+        796,
+        847
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_contrary to the Hardness of their Hearts, they will be_",
+      "box_2d": [
+        830,
+        248,
+        842,
+        847
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_persuaded. This I am able to aver, that those who come into_",
+      "box_2d": [
+        832,
+        250,
+        842,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_the other Life from the_ Christian World, _are of all Men_",
+      "box_2d": [
+        857,
+        251,
+        870,
+        848
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 2,
+      "text": "_the worst, hating their Neighbour, hating the Faith, denying_",
+      "box_2d": [
+        900,
+        252,
+        935,
+        849
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "// Page 3",
+      "box_2d": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "confidence_label": "high",
+      "notes": ""
+    },
+    {
+      "page_number": 3,
+      "text": "_the_ Lord _(for in the other Life Hearts speak, and not_",
+      "box_2d": [
+        180,
+        172,
+        192,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "Mouths) _and, above the rest,_ Adulterers. _And because_",
+      "box_2d": [
+        203,
+        173,
+        215,
+        779
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "Heaven _begins to be thus removed from others who are within_",
+      "box_2d": [
+        203,
+        174,
+        215,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_the Church, it may be made appear, which has also been_",
+      "box_2d": [
+        225,
+        173,
+        237,
+        778
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_permitted me to know for a Certainty, that the last Time is_",
+      "box_2d": [
+        247,
+        174,
+        260,
+        781
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_at Hand._",
+      "box_2d": [
+        313,
+        173,
+        324,
+        321
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_As to the Internal Sense of the Word, what it is, and_",
+      "box_2d": [
+        314,
+        214,
+        326,
+        782
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_of what Kind, may be seen by consulting what has been_",
+      "box_2d": [
+        322,
+        173,
+        326,
+        784
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_said and shewn in the First Part._ N. 1 _to_ 5. 64. 65.",
+      "box_2d": [
+        381,
+        174,
+        393,
+        783
+      ],
+      "confidence_label": "medium",
+      "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "66. 167. 605. 920. 937. 1143. 1224. 1404. 1405.",
+      "box_2d": [
+        381,
+        174,
+        393,
+        784
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "1408. 1409. 1502 _the End._ 1540. 1659. 1756 _the Beginning._",
+      "box_2d": [
+        403,
+        174,
+        417,
+        785
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "1767 _to_ 1777, _and_ 1869 _to_ 1879. 1783. 1807.",
+      "box_2d": [
+        427,
+        175,
+        437,
+        785
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    },
+    {
+      "page_number": 3,
+      "text": "_And in this Part,_ N. 1886 _to_ 1889 _inclusive._",
+      "box_2d": [
+        485,
+        174,
+        489,
+        620
+      ],
+      "confidence_label": "high",
+      "notes": "",
+      "reviewer_changed": false
+    }
+  ],
+  "confidence_score": 0.99,
+  "confidence_label": "high",
+  "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?",
+  "model": "gemini/gemini-3.1-pro-preview",
+  "configuration": "temperature=1.0, media_resolution=medium, reasoning_effort=high",
+  "review_complete": false
+}
