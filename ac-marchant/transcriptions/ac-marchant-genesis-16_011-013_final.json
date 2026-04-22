@@ -9,8 +9,8 @@
         0,
         0
       ],
-      "confidence_label": "high",
-      "notes": ""
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -21,9 +21,9 @@
         262,
         558
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -34,9 +34,9 @@
         337,
         792
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -47,9 +47,9 @@
         378,
         803
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -60,9 +60,9 @@
         384,
         806
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -73,9 +73,9 @@
         384,
         805
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -86,9 +86,9 @@
         451,
         806
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -99,9 +99,9 @@
         479,
         806
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -112,9 +112,9 @@
         498,
         809
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -125,9 +125,9 @@
         520,
         809
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -138,9 +138,9 @@
         543,
         809
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -151,9 +151,9 @@
         564,
         810
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -164,9 +164,9 @@
         564,
         812
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -177,9 +177,9 @@
         586,
         812
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -190,9 +190,9 @@
         608,
         814
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -203,9 +203,9 @@
         630,
         815
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -216,9 +216,9 @@
         698,
         816
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -229,9 +229,9 @@
         698,
         816
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -242,9 +242,9 @@
         720,
         818
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -255,9 +255,9 @@
         765,
         819
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -268,9 +268,9 @@
         808,
         822
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -281,9 +281,9 @@
         810,
         822
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -294,9 +294,9 @@
         810,
         822
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -307,9 +307,9 @@
         833,
         825
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -320,9 +320,9 @@
         855,
         825
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -333,9 +333,9 @@
         917,
         827
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 1,
@@ -346,9 +346,9 @@
         917,
         828
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -359,8 +359,8 @@
         0,
         0
       ],
-      "confidence_label": "high",
-      "notes": ""
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -371,9 +371,9 @@
         185,
         828
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -384,9 +384,9 @@
         189,
         827
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -397,9 +397,9 @@
         189,
         830
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -410,9 +410,9 @@
         234,
         830
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -423,9 +423,9 @@
         234,
         831
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -436,9 +436,9 @@
         300,
         830
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -449,9 +449,9 @@
         300,
         830
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -462,9 +462,9 @@
         324,
         831
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -475,9 +475,9 @@
         385,
         831
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -488,9 +488,9 @@
         391,
         832
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -501,9 +501,9 @@
         391,
         834
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -514,9 +514,9 @@
         459,
         834
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -527,9 +527,9 @@
         482,
         835
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -540,9 +540,9 @@
         505,
         835
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -553,9 +553,9 @@
         505,
         836
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -566,9 +566,9 @@
         527,
         837
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -579,9 +579,9 @@
         589,
         838
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -592,9 +592,9 @@
         615,
         838
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -605,9 +605,9 @@
         615,
         840
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -618,9 +618,9 @@
         615,
         841
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -631,9 +631,9 @@
         683,
         842
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -644,9 +644,9 @@
         683,
         843
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -657,9 +657,9 @@
         728,
         843
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -670,9 +670,9 @@
         728,
         844
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -683,9 +683,9 @@
         794,
         845
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -696,9 +696,9 @@
         796,
         846
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -709,9 +709,9 @@
         796,
         847
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -722,9 +722,9 @@
         842,
         847
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -735,9 +735,9 @@
         842,
         848
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -748,9 +748,9 @@
         870,
         848
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 2,
@@ -761,9 +761,9 @@
         935,
         849
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -774,8 +774,8 @@
         0,
         0
       ],
-      "confidence_label": "high",
-      "notes": ""
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -786,9 +786,9 @@
         192,
         778
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -799,9 +799,9 @@
         215,
         779
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -812,9 +812,9 @@
         215,
         778
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -825,9 +825,9 @@
         237,
         778
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -838,9 +838,9 @@
         260,
         781
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -851,9 +851,9 @@
         324,
         321
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -864,9 +864,9 @@
         326,
         782
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -877,9 +877,9 @@
         326,
         784
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -890,9 +890,9 @@
         393,
         783
       ],
-      "confidence_label": "medium",
-      "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "medium",
+      "ai_notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?"
     },
     {
       "page_number": 3,
@@ -903,9 +903,9 @@
         393,
         784
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -916,9 +916,9 @@
         417,
         785
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -929,9 +929,9 @@
         437,
         785
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     },
     {
       "page_number": 3,
@@ -942,15 +942,15 @@
         489,
         620
       ],
-      "confidence_label": "high",
-      "notes": "",
-      "reviewer_changed": false
+      "reviewer_changed": false,
+      "ai_confidence_label": "high",
+      "ai_notes": ""
     }
   ],
   "confidence_score": 0.99,
-  "confidence_label": "high",
-  "notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?",
   "model": "gemini/gemini-3.1-pro-preview",
   "configuration": "temperature=1.0, media_resolution=medium, reasoning_effort=high",
-  "review_complete": false
+  "review_complete": false,
+  "ai_confidence_label": "high",
+  "ai_notes": "Page 3 Line 9: \"1\" or \"i\" in \"N. 1\"?"
 }
