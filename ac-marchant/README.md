@@ -18,3 +18,11 @@ This is a single-work transcription workspace intended for use with the Python t
 - `prompt.md` - transcription prompt for this workspace
 - `transcribe.config.json` - model and transcription-response configuration
 - `.review-chunk-state.json` - local review progress state
+
+## Page Content to Ignore
+
+This work is old enough that it has some unique markings on the pages that we want to ignore:
+- Running heads (titles at the very top of pages).
+- Ornaments and decorative horizontal bars.
+- Signature marks and page numbers in the bottom margin (e.g., "A 2", "23181").
+- Catchwords (the single word at the far bottom-right corner that anticipates the next page).
